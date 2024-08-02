@@ -10,10 +10,6 @@ var sitedata_apps = [
                 "mac": "euro-truck-simulator-2_volkan_mac.json",
                 "windows": "euro-truck-simulator-2_VOLKAN_windows.json",
             },
-            "00VOLKAN_kapsamli_degisiklik_oncesi": {
-                "mac": "euro-truck-simulator-2_00volkan_kapsamli_degisiklik_oncesi_mac.json",
-                "windows": "euro-truck-simulator-2_00volkan_kapsamli_degisiklik_oncesi_windows.json",
-            },
         }
     },
 ];
