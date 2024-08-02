@@ -1,6 +1,7 @@
 /design/sprites-assets/*
 /_venv/*
 /.venv/*
+/sources/euro-truck-simulator-2/intermediate/ets2_VOLKAN_kapsamli_degisiklik_oncesi.json
 
 # Numerous always-ignore extensions
 *.diff
@@ -39,3 +40,5 @@ nbproject
 .hg
 .svn
 .idea
+/content/generated/for_reference
+/content/keyboards/for_reference

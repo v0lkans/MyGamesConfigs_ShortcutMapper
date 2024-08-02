@@ -38,6 +38,7 @@ class DataContainer(object):
         u'~': ['TILDE'],
         u'#': ['HASH'],
         u'±': ['PLUSMINUS'],
+        u'tr><': ['TR><'],
 
         # Numbers and maths
         u'number': ['ONE', 'NUMPAD_ONE', 'TWO', 'NUMPAD_TWO', 'THREE', 'NUMPAD_THREE', 'FOUR', 'NUMPAD_FOUR',
@@ -46,23 +47,44 @@ class DataContainer(object):
         u'number keys': ['ONE', 'NUMPAD_ONE', 'TWO', 'NUMPAD_TWO', 'THREE', 'NUMPAD_THREE', 'FOUR', 'NUMPAD_FOUR',
                      'FIVE', 'NUMPAD_FIVE', 'SIX', 'NUMPAD_SIX', 'SEVEN', 'NUMPAD_SEVEN', 'EIGHT', 'NUMPAD_EIGHT',
                      'NINE', 'NUMPAD_NINE','ZERO', 'NUMPAD_ZERO'],
-        u'1': ['ONE', 'NUMPAD_ONE'],
-        u'2': ['TWO', 'NUMPAD_TWO'],
-        u'3': ['THREE', 'NUMPAD_THREE'],
-        u'4': ['FOUR', 'NUMPAD_FOUR'],
-        u'5': ['FIVE', 'NUMPAD_FIVE'],
-        u'6': ['SIX', 'NUMPAD_SIX'],
-        u'7': ['SEVEN', 'NUMPAD_SEVEN'],
-        u'8': ['EIGHT', 'NUMPAD_EIGHT'],
-        u'9': ['NINE', 'NUMPAD_NINE'],
-        u'0': ['ZERO', 'NUMPAD_ZERO'],
-        u'-': ['MINUS', 'NUMPAD_MINUS'],
-        u'–': ['MINUS', 'NUMPAD_MINUS'],
-        u'+': ['PLUS', 'NUMPAD_PLUS'],
-        u'=': ['EQUAL', 'NUMPAD_EQUAL'],
-        u'*': ['ASTERISK', 'NUMPAD_ASTERISK'],
-        u'/': ['SLASH', 'NUMPAD_SLASH'],
-        u'.': ['PERIOD', 'NUMPAD_PERIOD'],
+        # u'1': [, 'ONE''NUMPAD_ONE'],
+        # u'2': ['TWO', 'NUMPAD_TWO'],
+        # u'3': ['THREE', 'NUMPAD_THREE'],
+        # u'4': ['FOUR', 'NUMPAD_FOUR'],
+        # u'5': ['FIVE', 'NUMPAD_FIVE'],
+        # u'6': ['SIX', 'NUMPAD_SIX'],
+        # u'7': ['SEVEN', 'NUMPAD_SEVEN'],
+        # u'8': ['EIGHT', 'NUMPAD_EIGHT'],
+        # u'9': ['NINE', 'NUMPAD_NINE'],
+        # u'0': ['ZERO', 'NUMPAD_ZERO'],
+        # u'-': ['MINUS', 'NUMPAD_MINUS'],
+        # u'–': ['MINUS', 'NUMPAD_MINUS'],
+        # u'+': ['PLUS', 'NUMPAD_PLUS'],
+        # u'=': ['EQUAL', 'NUMPAD_EQUAL'],
+        # u'*': ['ASTERISK', 'NUMPAD_ASTERISK'],
+        # u'/': ['SLASH', 'NUMPAD_SLASH'],
+        # u'.': ['PERIOD', 'NUMPAD_PERIOD'],
+        
+    
+        u'1': ['ONE'],
+        u'2': ['TWO'],
+        u'3': ['THREE'],
+        u'4': ['FOUR'],
+        u'5': ['FIVE'],
+        u'6': ['SIX'],
+        u'7': ['SEVEN'],
+        u'8': ['EIGHT'],
+        u'9': ['NINE'],
+        u'0': ['ZERO'],
+        u'-': ['MINUS'],
+        u'–': ['MINUS'],
+        u'+': ['PLUS'],
+        u'=': ['EQUAL'],
+        u'*': ['ASTERISK'],
+        u'/': ['SLASH'],
+        u'.': ['PERIOD'],
+        
+        
         u'numpad_0': ['NUMPAD_ZERO'],
         u'numpad_1': ['NUMPAD_ONE'],
         u'numpad_2': ['NUMPAD_TWO'],
@@ -84,10 +106,10 @@ class DataContainer(object):
         u'numpad 8': ['NUMPAD_EIGHT'],
         u'numpad 9': ['NUMPAD_NINE'],
         u'numpad -': ['NUMPAD_MINUS'],
-        u'numpad +': ['NUMPAD_PLUS'],
+        u'numpad plus': ['NUMPAD_PLUS'],
         u'numpad =': ['NUMPAD_EQUAL'],
         u'numpad *': ['NUMPAD_ASTERISK'],
-        u'numpad /': ['NUMPAD_SLASH'],
+        u'numpad slash': ['NUMPAD_SLASH'],
         u'numpad .': ['NUMPAD_PERIOD'],
         u'numpad enter': ['NUMPAD_ENTER'],
         u'numpad return': ['NUMPAD_ENTER'],
@@ -136,6 +158,7 @@ class DataContainer(object):
         u'É': ['CAP_E_ACUTE'],
         u'Ê': ['CAP_E_CIRC'],
         u'Ë': ['CAP_E_UML'],
+        u'Ğ': ['CAP_G_BREVE'],
         u'Ì': ['CAP_I_GRAVE'],
         u'Í': ['CAP_I_ACUTE'],
         u'Î': ['CAP_I_CIRC'],
@@ -150,6 +173,7 @@ class DataContainer(object):
         u'Ö': ['CAP_O_UML'],
         u'×': ['TIMES'],
         u'Ø': ['CAP_O_SLASH'],
+        u'Ş': ['CAP_S_CEDIL'],
         u'Ù': ['CAP_U_GRAVE'],
         u'Ú': ['CAP_U_ACUTE'],
         u'Û': ['CAP_U_CIRC'],
@@ -170,6 +194,7 @@ class DataContainer(object):
         u'é': ['E_ACUTE'],
         u'ê': ['E_CIRC'],
         u'ë': ['E_UML'],
+        u'ğ': ['G_BREVE'],
         u'ì': ['I_GRAVE'],
         u'í': ['I_ACUTE'],
         u'î': ['I_CIRC'],
@@ -184,6 +209,7 @@ class DataContainer(object):
         u'ö': ['O_UML'],
         u'÷': ['DIVIDE'],
         u'ø': ['O_SLASH'],
+        u'ş': ['S_CEDIL'],
         u'ù': ['U_GRAVE'],
         u'ú': ['U_ACUTE'],
         u'û': ['U_CIRC'],
@@ -276,12 +302,22 @@ class DataContainer(object):
         u'pause': ['PAUSE_BREAK'],
 
         u'media_first': ['MEDIA_PREVIOUS'],
-        u'media_last': ['MEDIA_NEXT']
+        u'media_last': ['MEDIA_NEXT'],
+        
+        # VOLKAN - Mouse buttons
+        u'm_left': ['MOUSE_LEFT'],
+        u'm_middle': ['MOUSE_MIDDLE'],
+        u'm_right': ['MOUSE_RIGHT'],
+        u'm_5': ['MOUSE_5'],
+        u'm_4': ['MOUSE_4'],
+        u'm_scroll_up': ['MOUSE_SCROLL_UP'],
+        u'm_scroll_down': ['MOUSE_SCROLL_DOWN']
+        
     }
 
     VALID_KEYNAMES = None
 
-
+# VOLKAN - Adapted to Turkish I-İ ı-i confussion
 def _populate_valid_keynames():
     valid_keynames = []
     for char_or_name, names in DataContainer.VALID_NAME_LOOKUP.items():
@@ -289,7 +325,7 @@ def _populate_valid_keynames():
 
     # Valid keynames that aren't in the VALID_NAME_LOOKUP values
     valid_keynames.extend([
-        'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+        'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'İ', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
         'F1', 'F2', 'F3', 'F4', 'F5', 'F6', 'F7', 'F8', 'F9', 'F10', 'F11',
         'F12', 'F13', 'F14', 'F15', 'F16', 'F17', 'F18', 'F19',
