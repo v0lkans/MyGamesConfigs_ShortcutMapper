@@ -1,0 +1,183 @@
+{
+    "name": "Euro Truck Simulator 2",
+    "version": "VOLKAN",
+    "default_context": "Çekici Kontrolleri + Genel",
+    "os": ["windows", "mac", "linux"],
+    "contexts": {
+        "Çekici Kontrolleri + Genel": {
+            "Gaz": ["Up / W"],
+            "Fren/Geri Vites": ["Down / S"],
+            "Sola Dönüş": ["Left"],
+            "Sağa Dönüş": ["Right"],
+            "Vites Yükseltme": [""],
+            "Vites Küçültme": [""],
+            "Boşa Alma": ["Shift + N"],
+            "Sür Vitesine Geçme": ["Shift + D"],
+            "Geri Vitese Geçme": ["Shift + R"],
+            "Vites Yükseltme Müdahalesi": ["Shift + m_5 / Shift + W"],
+            "Vites Küçültme Müdahalesi": ["Shift + m_4 / Shift + S"],
+            "Otomatik/Sıralı Şanzıman Arası Geçiş": ["Shift + Tab"],
+            "Adaptif Otomatik Şanzıman Modu": [""],
+            "Motoru Çalıştırma/Durdurma": ["I"],
+            "Kontağı Açma/Kapatma": ["O"],
+            "El Freni": ["B"],
+            "Motor Freni": ["Space"],
+            "Motor Freni Açma/Kapatma": ["Shift + Q BASILI"],
+            "Motor Freni Gücünü Arttırma": ["Shift + A"],
+            "Motor Freni Gücünü Düşürme": ["Shift + Q"],
+            "Otomatik Motor Freni": [""],
+            "Dorse Freni": ["Q"],
+            "Retarder Gücünü Artırma": ["F / m_scroll_down"],
+            "Retarder Gücünü Düşürme": ["R / m_scroll_up"],
+            "Otomatik Retarder": [""],
+			"Dingil Kaldırma/İndirme": ["Ü"],
+			"Dorse Dingili Kaldırma/İndirme": ["Ğ"],
+			"Diferansiyel Kilidi": ["U"],
+            "Ön Süspansiyon Kaldırma": ["Page Up"],
+            "Ön Süspansiyon İndirme": ["Page Down"],
+            "Arka Süspansiyonu Kaldırma": ["ins"],
+            "Arka Süspansiyonu İndirme": ["del"],
+            "Süspansiyonu Sıfırlama": ["End"],
+			"Sol Sinyal": ["A"],
+			"Sağ Sinyal": ["D"],
+			"Dörtlüler": ["K"],
+			"Aydınlatma Seçenekleri": ["T"],
+			"Uzun Farlar": ["T BASILI"],
+			"Çakar Lamba": ["Y"],
+			"Korna": ["H"],
+			"Havalı Korna": ["J"],
+			"Selektör": ["G"],
+			"Silecekler": ["P"],
+            "Silecekleri Kapatma/Yavaşlatma": ["P BASILI"],
+			"Hız Sabitleyici": ["Shift + V"],
+			"Hız Sabitleyici Ayarını Artırma": ["E / Shift + m_scroll_up"],
+			"Hız Sabitleyici Ayarını Düşürme": ["C / Shift + m_scroll_down"],
+			"Hız Sabitleyicisini Devam Ettirme": ["V"],
+			"Adatif Hız Sabitleyicisi Modu": ["."],
+            "Acil Frenleme": [""],
+			"Şerit Takip Asistanı": ["Shift + E"],
+			"Şerit Takip Asistanı Modu": ["Shift + E BASILI"],
+            "Yol Bilgisayarı Ekran Değiştirme": ["Z"],
+            "Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme": ["X BASILI"],
+            "Navigasyon Yakınlaştırma Modu": ["X"],
+            "Yol Bilgisayarı Trip Sıfırlama": [","],
+            "Sağ Camı Açma": ["Alt + Page Down"],
+            "Sağ Camı Kapatma": ["Alt + Page Up"],
+            "Sol Camı Açma": ["Alt + del"],
+            "Sol Camı Kapatma": ["Alt + ins"],
+
+
+            
+            "Ekrandaki Yan Aynaları Açma/Kapatma": ["F2 / Ctrl + R"],
+            "Yol Planlayıcısı Modları": ["F3"],
+            "Çekici Ayarı": ["F4"],
+            "Yol Planlayıcısı Fare ile Kontrol": ["F1"],
+            "Yol Planlayıcısı Navigasyon Ekranı": ["F5 / Ctrl + 1"],
+            "Yol Planlayıcısı İş Açıklaması Ekranı": ["F6 / Ctrl + 2"],
+            "Yol Planlayıcısı Hasar Ekranı": ["F7 / Ctrl + 3"],
+            "Yol Planlayıcısı Bilgi Ekranı": ["F8 / Ctrl + 4"],
+            "Yol Planlayıcısı Sohbet Ekranı": ["F9 / Ctrl + 5"],
+            "Yol Planlayıcısı Sonraki Ekran": ["Ctrl + E / Ctrl + m_scroll_up"],
+            "Yol Planlayıcısı Önceki Ekran": ["Ctrl + Q / Ctrl + m_scroll_down"],
+            "Yol Planlayıcısı Navigasyon Yakınlaştırma": ["Ctrl + Z"],
+            "Yol Planlayıcısı Navigasyon Uzaklaştırma": ["Ctrl + X"],
+            "Yol Planlayıcısı Hedef Modu": ["Ctrl + F1"],   
+
+
+
+            "Bir Sonraki Kamera": ["9"],
+            "İç Mekân Kamerası": ["1"],
+            "Takip Kamerası": ["2"],
+            "Tepeden Bakış Kamerası": ["3"],
+            "Tavan Kamerası": ["4"],
+            "Camdan Dışarı Bakma Kamerası": ["5"],
+            "Tampon Kamerası": ["6"],
+            "Tekerlek Kamerası": ["7"],
+            "TV Kamerası": ["8"],
+            "Kamerayı Döndürme (fare ile kontrolde)": ["m_right / N"],
+            "İç Mekân Kamerası Yakınlaştırma": ["m_middle / Tab"],
+            "Sola Bakma": ["Alt + Z"],
+            "Sağa Bakma": ["Alt + C"],
+            "İç Mekân Kamerası İleri Bakma": ["Alt + S"],
+            "İç Mekân Kamerası Sağ Üste Bakma": ["Alt + E"],
+            "İç Mekân Kamerası Sol Üste Bakma": ["Alt + Q"],
+            "İç Mekân Kamerası Sağa Bakma": ["Alt + D"],
+            "İç Mekân Kamerası Sola Bakma": ["Alt + A"],
+            "İç Mekân Kamerası Yukarı Ortaya Bakma": ["Alt + W"],
+            "Direksiyon Takipli Kamera Dönüşü": ["TR><"],
+            "Sinyal Takipli Kamera Dönüşü": ["TR>< BASILI"],
+         
+
+
+            "Etkinleştirme": ["Ctrl + F / Numpad Enter"],
+            "Dorseyi Bağlama/Ayırma": ["L"],
+            "Hızlı Kaydetme": ["F12"],
+            "Dünya Haritası": ["M"],
+            "Garaj Yöneticisi": ["M BASILI"],
+            "Ekran Görüntüsü": ["F10"]
+		},
+
+
+
+
+        "Oyun İçi Ekran Kontrolleri": {
+            "Asistan 1.Eylem": ["1"],
+            "Asistan 2.Eylem": ["2"],
+            "Asistan 3.Eylem": ["3"],
+            "Asistan 4.Eylem": ["4"],
+            "Asistan 5.Eylem": ["5"]
+		},
+
+
+
+
+        "Kamera Kontrolleri": {
+
+		},
+
+
+
+
+        "Yürüyüş Modu": {
+            "İleri Gitme": ["W"],
+            "Geri Gitme": ["S"],
+            "Sola Gitme": ["A"],
+            "Sağa Gitme": ["D"],
+            "Çömelme": ["C"],
+            "Koşma": ["E"]
+		},
+
+
+
+
+        "Fotoğraf Modu": {
+            "Fotoğraf Modunu Açma (sürüş esnasında)": ["-"],
+            "Kamera - İleri Gitme": ["W"],
+            "Kamera - Geri Gitme": ["S"],
+            "Kamera - Sola Gitme": ["A"],
+            "Kamera - Sağa Gitme": ["D"],
+            "Kamera - Yukarı Gitme": ["E"],
+            "Kamera - Aşağı Gitme": ["C"],
+            "Kamera - Sola Devirme": ["Z"],
+            "Kamera - Sağa Devirme": ["X"],
+            "Varsayılanlara Dönme": ["R"],
+            "Galeriyi Açma": ["M"],
+            "Fotoğraf Çekme": ["Enter"],
+            "Fotoğraf Ayarını Açma/Kapatma": ["Space"],
+            "Kontrolleri Açma/Kapatma": ["H"],
+            "Oyuncu İsimlerini Açma/Kapatma": ["N"]
+		},
+
+
+        "Basılı Tutma": {
+            "Motor Freni Açma/Kapatma": ["Shift + Q"],
+            "Uzun Farlar": ["T"],
+            "Silecekleri Kapatma/Yavaşlatma": ["P"],
+            "Şerit Takip Asistanı Modu": ["Shift + E"],
+            "Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme": ["X"],
+            "Sinyal Takipli Kamera Dönüşü": ["TR><"],
+            "Garaj Yöneticisi": ["M"]
+		}
+
+    }
+}

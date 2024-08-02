@@ -168,7 +168,7 @@ class IntermediateShortcutData(object):
 
             for context_name, shortcuts in json_idata["contexts"].items():
                 for shortcut_name, os_keys in shortcuts.items():
-                    self.add_shortcut(context_name, shortcut_name, os_keys[0], os_keys[0])
+                    self.add_shortcut(context_name, shortcut_name, os_keys[0], os_keys[1])
 
     def serialize(self, output_filepath):
         """Save the intermediate data to a json file"""
