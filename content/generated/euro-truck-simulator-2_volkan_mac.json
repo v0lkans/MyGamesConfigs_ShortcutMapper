@@ -6,6 +6,12 @@
     "default_context" : "Çekici Kontrolleri + Genel",
     "contexts" : {
         "Basılı Tutma" : {
+            "A" : [
+                {"name":"İç Mekân Kamerası Sola Bakma", "mods":["ALT"]}
+            ],
+            "D" : [
+                {"name":"İç Mekân Kamerası Sağa Bakma", "mods":["ALT"]}
+            ],
             "E" : [
                 {"name":"Şerit Takip Asistanı Modu", "mods":["SHIFT"]}
             ],
@@ -15,14 +21,11 @@
             "P" : [
                 {"name":"Silecekleri Kapatma/Yavaşlatma", "mods":[]}
             ],
-            "Q" : [
-                {"name":"Motor Freni Açma/Kapatma", "mods":["SHIFT"]}
-            ],
             "T" : [
                 {"name":"Uzun Farlar", "mods":[]}
             ],
-            "TR><" : [
-                {"name":"Sinyal Takipli Kamera Dönüşü", "mods":[]}
+            "THREE" : [
+                {"name":"Motor Freni Açma/Kapatma", "mods":["SHIFT"]}
             ],
             "X" : [
                 {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]}
@@ -114,15 +117,17 @@
         },
         "Çekici Kontrolleri + Genel" : {
             "A" : [
-                {"name":"Motor Freni Gücünü Arttırma", "mods":["SHIFT"]},
                 {"name":"Sol Sinyal", "mods":[]},
-                {"name":"İç Mekân Kamerası Sola Bakma", "mods":["ALT"]}
+                {"name":"Vites Küçültme Müdahalesi", "mods":["SHIFT"]},
+                {"name":"Yol Planlayıcısı Önceki Ekran", "mods":["CONTROL"]},
+                {"name":"İç Mekân Kamerası Sol Üste Bakma", "mods":["ALT"]}
             ],
             "B" : [
                 {"name":"El Freni", "mods":[]}
             ],
             "C" : [
                 {"name":"Hız Sabitleyici Ayarını Düşürme", "mods":[]},
+                {"name":"Motor Freni Gücünü Düşürme", "mods":["SHIFT"]},
                 {"name":"Sağa Bakma", "mods":["ALT"]}
             ],
             "COMMA" : [
@@ -131,7 +136,8 @@
             "D" : [
                 {"name":"Sağ Sinyal", "mods":[]},
                 {"name":"Sür Vitesine Geçme", "mods":["SHIFT"]},
-                {"name":"İç Mekân Kamerası Sağa Bakma", "mods":["ALT"]}
+                {"name":"Yol Planlayıcısı Sonraki Ekran", "mods":["CONTROL"]},
+                {"name":"İç Mekân Kamerası Sağ Üste Bakma", "mods":["ALT"]}
             ],
             "DELETE" : [
                 {"name":"Arka Süspansiyonu İndirme", "mods":[]},
@@ -141,9 +147,9 @@
                 {"name":"Fren/Geri Vites", "mods":[]}
             ],
             "E" : [
+                {"name":"Etkinleştirme", "mods":["CONTROL"]},
                 {"name":"Hız Sabitleyici Ayarını Artırma", "mods":[]},
-                {"name":"Yol Planlayıcısı Sonraki Ekran", "mods":["CONTROL"]},
-                {"name":"İç Mekân Kamerası Sağ Üste Bakma", "mods":["ALT"]},
+                {"name":"İç Mekân Kamerası Yukarı Ortaya Bakma", "mods":["ALT"]},
                 {"name":"Şerit Takip Asistanı", "mods":["SHIFT"]}
             ],
             "EIGHT" : [
@@ -153,7 +159,6 @@
                 {"name":"Süspansiyonu Sıfırlama", "mods":[]}
             ],
             "F" : [
-                {"name":"Etkinleştirme", "mods":["CONTROL"]},
                 {"name":"Retarder Gücünü Artırma", "mods":[]}
             ],
             "F1" : [
@@ -284,9 +289,8 @@
             ],
             "Q" : [
                 {"name":"Dorse Freni", "mods":[]},
-                {"name":"Motor Freni Gücünü Düşürme", "mods":["SHIFT"]},
-                {"name":"Yol Planlayıcısı Önceki Ekran", "mods":["CONTROL"]},
-                {"name":"İç Mekân Kamerası Sol Üste Bakma", "mods":["ALT"]}
+                {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]},
+                {"name":"İç Mekân Kamerası İleri Bakma", "mods":["ALT"]}
             ],
             "R" : [
                 {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":["CONTROL"]},
@@ -297,9 +301,7 @@
                 {"name":"Sağa Dönüş", "mods":[]}
             ],
             "S" : [
-                {"name":"Fren/Geri Vites", "mods":[]},
-                {"name":"Vites Küçültme Müdahalesi", "mods":["SHIFT"]},
-                {"name":"İç Mekân Kamerası İleri Bakma", "mods":["ALT"]}
+                {"name":"Fren/Geri Vites", "mods":[]}
             ],
             "SEVEN" : [
                 {"name":"Tekerlek Kamerası", "mods":[]}
@@ -318,11 +320,13 @@
                 {"name":"İç Mekân Kamerası Yakınlaştırma", "mods":[]}
             ],
             "THREE" : [
+                {"name":"Motor Freni Gücünü Arttırma", "mods":["SHIFT"]},
                 {"name":"Tepeden Bakış Kamerası", "mods":[]},
                 {"name":"Yol Planlayıcısı Hasar Ekranı", "mods":["CONTROL"]}
             ],
             "TR><" : [
-                {"name":"Direksiyon Takipli Kamera Dönüşü", "mods":[]}
+                {"name":"Direksiyon Takipli Kamera Dönüşü", "mods":[]},
+                {"name":"Sinyal Takipli Kamera Dönüşü", "mods":["ALT"]}
             ],
             "TWO" : [
                 {"name":"Takip Kamerası", "mods":[]},
@@ -342,9 +346,7 @@
                 {"name":"Hız Sabitleyicisini Devam Ettirme", "mods":[]}
             ],
             "W" : [
-                {"name":"Gaz", "mods":[]},
-                {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]},
-                {"name":"İç Mekân Kamerası Yukarı Ortaya Bakma", "mods":["ALT"]}
+                {"name":"Gaz", "mods":[]}
             ],
             "X" : [
                 {"name":"Navigasyon Yakınlaştırma Modu", "mods":[]},
