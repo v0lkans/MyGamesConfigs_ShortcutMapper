@@ -128,7 +128,8 @@
             "C" : [
                 {"name":"Hız Sabitleyici Ayarını Düşürme", "mods":[]},
                 {"name":"Motor Freni Gücünü Düşürme", "mods":["SHIFT"]},
-                {"name":"Sağa Bakma", "mods":["ALT"]}
+                {"name":"Sağa Bakma", "mods":["ALT"]},
+                {"name":"Yol Planlayıcısı Modları", "mods":["CONTROL"]}
             ],
             "COMMA" : [
                 {"name":"Yol Bilgisayarı Trip Sıfırlama", "mods":[]}
@@ -289,11 +290,11 @@
             ],
             "Q" : [
                 {"name":"Dorse Freni", "mods":[]},
+                {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":["CONTROL"]},
                 {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]},
                 {"name":"İç Mekân Kamerası İleri Bakma", "mods":["ALT"]}
             ],
             "R" : [
-                {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":["CONTROL"]},
                 {"name":"Geri Vitese Geçme", "mods":["SHIFT"]},
                 {"name":"Retarder Gücünü Düşürme", "mods":[]}
             ],
