@@ -308,8 +308,8 @@ class DataContainer(object):
         u'm_left': ['MOUSE_LEFT'],
         u'm_middle': ['MOUSE_MIDDLE'],
         u'm_right': ['MOUSE_RIGHT'],
-        u'm_5': ['MOUSE_5'],
-        u'm_4': ['MOUSE_4'],
+        u'm_m5': ['MOUSE_5'],
+        u'm_m4': ['MOUSE_4'],
         u'm_scroll_up': ['MOUSE_SCROLL_UP'],
         u'm_scroll_down': ['MOUSE_SCROLL_DOWN']
         

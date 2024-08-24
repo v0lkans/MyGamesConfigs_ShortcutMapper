@@ -14,8 +14,8 @@
             "Boşa Alma": ["Shift + N"],
             "Sür Vitesine Geçme": ["Shift + D"],
             "Geri Vitese Geçme": ["Shift + R"],
-            "Vites Yükseltme Müdahalesi": ["Shift + m_5 / Shift + Q"],
-            "Vites Küçültme Müdahalesi": ["Shift + m_4 / Shift + A"],
+            "Vites Yükseltme Müdahalesi": ["Shift + Q"],
+            "Vites Küçültme Müdahalesi": ["Shift + A"],
             "Otomatik/Sıralı Şanzıman Arası Geçiş": ["Shift + Tab"],
             "Adaptif Otomatik Şanzıman Modu": [""],
             "Motoru Çalıştırma/Durdurma": ["I"],
@@ -47,8 +47,8 @@
 			"Korna": ["H"],
 			"Havalı Korna": ["J"],
 			"Selektör": ["G"],
-			"Silecekler": ["P"],
-            "Silecekleri Kapatma/Yavaşlatma": ["P BASILI"],
+			"Silecekler": ["Shift + X"],
+            "Silecekleri Kapatma/Yavaşlatma": ["Shift + X BASILI"],
 			"Hız Sabitleyici": ["Shift + V"],
 			"Hız Sabitleyici Ayarını Artırma": ["E / Shift + m_scroll_up"],
 			"Hız Sabitleyici Ayarını Düşürme": ["C / Shift + m_scroll_down"],
@@ -96,9 +96,9 @@
             "TV Kamerası": ["8"],
             "Kamerayı Döndürme (fare ile kontrolde)": ["m_right / N"],
             "İç Mekân Kamerası Yakınlaştırma": ["m_middle / Tab"],
-            "Sola Bakma": ["Alt + Z"],
-            "Sağa Bakma": ["Alt + C"],
-            "İç Mekân Kamerası İleri Bakma": ["Alt + Q"],
+            "Sola Bakma": ["Alt + Z / m_m4"],
+            "Sağa Bakma": ["Alt + C / m_m5"],
+            "İç Mekân Kamerası İleri Bakma": ["Alt + Q / m_left"],
             "İç Mekân Kamerası Sağ Üste Bakma": ["Alt + D"],
             "İç Mekân Kamerası Sol Üste Bakma": ["Alt + A"],
             "İç Mekân Kamerası Sağa Bakma": ["Alt + D BASILI"],
@@ -114,7 +114,17 @@
             "Hızlı Kaydetme": ["F12"],
             "Dünya Haritası": ["M"],
             "Garaj Yöneticisi": ["M BASILI"],
-            "Ekran Görüntüsü": ["F10"]
+            "Ekran Görüntüsü": ["F10"],
+
+
+
+            "0.6 * Throttle": ["Shift + W"],
+            "0.4 * Throttle": ["Ctrl + W"],
+            "0.2 * Throttle": ["Alt + W"],
+            
+            "0.3 * Brake": ["Shift + S"],
+            "0.15 * Brake": ["Ctrl + S"],
+            "0.075 * Brake": ["Alt + s"]
 		},
 
 
@@ -172,12 +182,17 @@
         "Basılı Tutma": {
             "Motor Freni Açma/Kapatma": ["Shift + 3"],
             "Uzun Farlar": ["T"],
-            "Silecekleri Kapatma/Yavaşlatma": ["P"],
+            "Silecekleri Kapatma/Yavaşlatma": ["Shift + X"],
             "Şerit Takip Asistanı Modu": ["Shift + E"],
             "Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme": ["X"],
             "İç Mekân Kamerası Sağa Bakma": ["Alt + D"],
             "İç Mekân Kamerası Sola Bakma": ["Alt + A"],
             "Garaj Yöneticisi": ["M"]
+		},
+
+        "Custom Keybind - Better throttle and brake for keyboard": {
+
+
 		}
 
     }

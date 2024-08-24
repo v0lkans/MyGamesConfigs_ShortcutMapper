@@ -18,9 +18,6 @@
             "M" : [
                 {"name":"Garaj Yöneticisi", "mods":[]}
             ],
-            "P" : [
-                {"name":"Silecekleri Kapatma/Yavaşlatma", "mods":[]}
-            ],
             "T" : [
                 {"name":"Uzun Farlar", "mods":[]}
             ],
@@ -28,7 +25,8 @@
                 {"name":"Motor Freni Açma/Kapatma", "mods":["SHIFT"]}
             ],
             "X" : [
-                {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]}
+                {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]},
+                {"name":"Silecekleri Kapatma/Yavaşlatma", "mods":["SHIFT"]}
             ]
         },
         "Fotoğraf Modu" : {
@@ -236,10 +234,13 @@
                 {"name":"Dünya Haritası", "mods":[]}
             ],
             "MOUSE_4" : [
-                {"name":"Vites Küçültme Müdahalesi", "mods":["SHIFT"]}
+                {"name":"Sola Bakma", "mods":[]}
             ],
             "MOUSE_5" : [
-                {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]}
+                {"name":"Sağa Bakma", "mods":[]}
+            ],
+            "MOUSE_LEFT" : [
+                {"name":"İç Mekân Kamerası İleri Bakma", "mods":[]}
             ],
             "MOUSE_MIDDLE" : [
                 {"name":"İç Mekân Kamerası Yakınlaştırma", "mods":[]}
@@ -274,9 +275,6 @@
                 {"name":"Yol Planlayıcısı Navigasyon Ekranı", "mods":["CONTROL"]},
                 {"name":"İç Mekân Kamerası", "mods":[]}
             ],
-            "P" : [
-                {"name":"Silecekler", "mods":[]}
-            ],
             "PAGE_DOWN" : [
                 {"name":"Sağ Camı Açma", "mods":["ALT"]},
                 {"name":"Ön Süspansiyon İndirme", "mods":[]}
@@ -302,6 +300,9 @@
                 {"name":"Sağa Dönüş", "mods":[]}
             ],
             "S" : [
+                {"name":"0.075 * Brake", "mods":["ALT"]},
+                {"name":"0.15 * Brake", "mods":["CONTROL"]},
+                {"name":"0.3 * Brake", "mods":["SHIFT"]},
                 {"name":"Fren/Geri Vites", "mods":[]}
             ],
             "SEVEN" : [
@@ -347,10 +348,14 @@
                 {"name":"Hız Sabitleyicisini Devam Ettirme", "mods":[]}
             ],
             "W" : [
+                {"name":"0.2 * Throttle", "mods":["ALT"]},
+                {"name":"0.4 * Throttle", "mods":["CONTROL"]},
+                {"name":"0.6 * Throttle", "mods":["SHIFT"]},
                 {"name":"Gaz", "mods":[]}
             ],
             "X" : [
                 {"name":"Navigasyon Yakınlaştırma Modu", "mods":[]},
+                {"name":"Silecekler", "mods":["SHIFT"]},
                 {"name":"Yol Planlayıcısı Navigasyon Uzaklaştırma", "mods":["CONTROL"]}
             ],
             "Y" : [
