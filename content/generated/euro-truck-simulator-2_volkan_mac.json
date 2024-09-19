@@ -9,6 +9,9 @@
             "A" : [
                 {"name":"İç Mekân Kamerası Sola Bakma", "mods":["ALT"]}
             ],
+            "B" : [
+                {"name":"El Freni", "mods":["SHIFT"]}
+            ],
             "D" : [
                 {"name":"İç Mekân Kamerası Sağa Bakma", "mods":["ALT"]}
             ],
@@ -119,9 +122,6 @@
                 {"name":"Vites Küçültme Müdahalesi", "mods":["SHIFT"]},
                 {"name":"Yol Planlayıcısı Önceki Ekran", "mods":["CONTROL"]},
                 {"name":"İç Mekân Kamerası Sol Üste Bakma", "mods":["ALT"]}
-            ],
-            "B" : [
-                {"name":"El Freni", "mods":[]}
             ],
             "C" : [
                 {"name":"Hız Sabitleyici Ayarını Düşürme", "mods":[]},
@@ -260,7 +260,7 @@
             ],
             "N" : [
                 {"name":"Boşa Alma", "mods":["SHIFT"]},
-                {"name":"Kamerayı Döndürme (fare ile kontrolde)", "mods":[]}
+                {"name":"Dorse Freni", "mods":[]}
             ],
             "NINE" : [
                 {"name":"Bir Sonraki Kamera", "mods":[]}
@@ -287,8 +287,8 @@
                 {"name":"Adatif Hız Sabitleyicisi Modu", "mods":[]}
             ],
             "Q" : [
-                {"name":"Dorse Freni", "mods":[]},
                 {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":["CONTROL"]},
+                {"name":"Kamerayı Döndürme (fare ile kontrolde)", "mods":[]},
                 {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]},
                 {"name":"İç Mekân Kamerası İleri Bakma", "mods":["ALT"]}
             ],

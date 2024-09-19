@@ -20,13 +20,13 @@
             "Adaptif Otomatik Şanzıman Modu": [""],
             "Motoru Çalıştırma/Durdurma": ["I"],
             "Kontağı Açma/Kapatma": ["O"],
-            "El Freni": ["B"],
+            "El Freni": ["Shift + B BASILI"],
             "Motor Freni": ["Space"],
             "Motor Freni Açma/Kapatma": ["Shift + 3 BASILI"],
             "Motor Freni Gücünü Arttırma": ["Shift + 3"],
             "Motor Freni Gücünü Düşürme": ["Shift + C"],
             "Otomatik Motor Freni": [""],
-            "Dorse Freni": ["Q"],
+            "Dorse Freni": ["N"],
             "Retarder Gücünü Artırma": ["F / m_scroll_down"],
             "Retarder Gücünü Düşürme": ["R / m_scroll_up"],
             "Otomatik Retarder": [""],
@@ -94,7 +94,7 @@
             "Tampon Kamerası": ["6"],
             "Tekerlek Kamerası": ["7"],
             "TV Kamerası": ["8"],
-            "Kamerayı Döndürme (fare ile kontrolde)": ["m_right / N"],
+            "Kamerayı Döndürme (fare ile kontrolde)": ["m_right / Q"],
             "İç Mekân Kamerası Yakınlaştırma": ["m_middle / Tab"],
             "Sola Bakma": ["Alt + Z / m_m4"],
             "Sağa Bakma": ["Alt + C / m_m5"],
@@ -180,6 +180,7 @@
 
 
         "Basılı Tutma": {
+            "El Freni": ["Shift + B"],
             "Motor Freni Açma/Kapatma": ["Shift + 3"],
             "Uzun Farlar": ["T"],
             "Silecekleri Kapatma/Yavaşlatma": ["Shift + X"],
