@@ -12,4 +12,13 @@ var sitedata_apps = [
             },
         }
     },
+    {
+        name: "League of Legends",
+        data: {
+            "VOLKAN": {
+                "mac": "league-of-legends_volkan_mac.json",
+                "windows": "league-of-legends_volkan_windows.json",
+            },
+        }
+    },
 ];

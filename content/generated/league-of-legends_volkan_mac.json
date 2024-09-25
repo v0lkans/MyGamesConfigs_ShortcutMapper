@@ -1,0 +1,208 @@
+{
+    "name" : "League of Legends",
+    "version" : "VOLKAN",
+    "os" : "mac",
+    "mods_used" : ["ALT", "CONTROL", "SHIFT"],
+    "default_context" : "Çekici Kontrolleri + Genel",
+    "contexts" : {
+        "Ana Kısayol Tuşları" : {
+            "A" : [
+                {"name":"Oyuncu Saldırı Hareketi", "mods":[]}
+            ],
+            "B" : [
+                {"name":"Üsse Dönüş", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Dükkânı Aç", "mods":[]},
+                {"name":"Temel Oyuncu İstatistiklerini Aç/Kapat", "mods":["CONTROL"]}
+            ],
+            "D" : [
+                {"name":"1. Sihirdar Büyüsü KENDİNE", "mods":["ALT"]},
+                {"name":"1. Sihirdar Büyüsü NORMAL", "mods":["SHIFT"]},
+                {"name":"1. Sihirdar Büyüsü OTO", "mods":[]}
+            ],
+            "DOUBLE_QUOTE" : [
+                {"name":"Sohbet Geçmişi", "mods":[]}
+            ],
+            "DOWN_ARROW" : [
+                {"name":"Aşağı Kaydır", "mods":[]}
+            ],
+            "E" : [
+                {"name":"3. Yetenek KENDİNE", "mods":["ALT"]},
+                {"name":"3. Yetenek NORMAL", "mods":["SHIFT"]},
+                {"name":"3. Yetenek OTO", "mods":[]},
+                {"name":"3. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
+            ],
+            "ENTER" : [
+                {"name":"Dükkân Arama Çubuğunu Ortala", "mods":["CONTROL"]}
+            ],
+            "ESCAPE" : [
+                {"name":"Sistem Menüsü", "mods":[]}
+            ],
+            "F" : [
+                {"name":"2. Sihirdar Büyüsü KENDİNE", "mods":["ALT"]},
+                {"name":"2. Sihirdar Büyüsü NORMAL", "mods":["SHIFT"]},
+                {"name":"2. Sihirdar Büyüsü OTO", "mods":[]}
+            ],
+            "F1" : [
+                {"name":"1. Takım Arkadaşını Seç", "mods":[]},
+                {"name":"Şampiyona Özel Etkileşim 1", "mods":["SHIFT"]}
+            ],
+            "F2" : [
+                {"name":"2. Takım Arkadaşını Seç", "mods":[]},
+                {"name":"Şampiyona Özel Etkileşim 2", "mods":["SHIFT"]}
+            ],
+            "F3" : [
+                {"name":"3. Takım Arkadaşını Seç", "mods":[]},
+                {"name":"Şampiyona Özel Etkileşim 3", "mods":["SHIFT"]}
+            ],
+            "F4" : [
+                {"name":"4. Takım Arkadaşını Seç", "mods":[]},
+                {"name":"Şampiyona Özel Etkileşim 4", "mods":["SHIFT"]}
+            ],
+            "F5" : [
+                {"name":"Şampiyona Özel Etkileşim 5", "mods":["SHIFT"]}
+            ],
+            "F6" : [
+                {"name":"Şampiyona Özel Etkileşim 6", "mods":["SHIFT"]}
+            ],
+            "F9" : [
+                {"name":"Fare Ekran Kilidini Aç/Kapat", "mods":[]}
+            ],
+            "FIVE" : [
+                {"name":"4. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"4. Eşya OTO", "mods":[]},
+                {"name":"Aç/Kapat", "mods":["CONTROL"]}
+            ],
+            "FOUR" : [
+                {"name":"Gül", "mods":["CONTROL"]},
+                {"name":"Ziynet KENDİNE", "mods":["ALT"]},
+                {"name":"Ziynet NORMAL", "mods":["SHIFT"]},
+                {"name":"Ziynet. OTO", "mods":[]}
+            ],
+            "I" : [
+                {"name":"Benim Hatam", "mods":[]}
+            ],
+            "L" : [
+                {"name":"Dükkân Arama Çubuğunu Ortala", "mods":["CONTROL"]},
+                {"name":"Kamera Kilidini Aç/Kapat", "mods":[]}
+            ],
+            "LEFT_ARROW" : [
+                {"name":"Sola Kaydır", "mods":[]}
+            ],
+            "MOUSE_4" : [
+                {"name":"4. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"4. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"4. Eşya OTO", "mods":[]},
+                {"name":"Ustalık İfadesi", "mods":["CONTROL"]}
+            ],
+            "MOUSE_5" : [
+                {"name":"5. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"5. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"5. Eşya OTO", "mods":[]},
+                {"name":"Ustalık İfadesi", "mods":["CONTROL"]}
+            ],
+            "MOUSE_LEFT" : [
+                {"name":"Hızlı Temkin Sinyali", "mods":["CONTROL"]},
+                {"name":"Çabuk Uyarı Sinyali", "mods":["ALT"]}
+            ],
+            "MOUSE_MIDDLE" : [
+                {"name":"Sürükleyerek Kaydırma", "mods":[]}
+            ],
+            "MOUSE_RIGHT" : [
+                {"name":"Oyuncu Hareket Tıklaması", "mods":[]},
+                {"name":"Oyuncu Saldırı Hareketi Tıklaması", "mods":["SHIFT"]},
+                {"name":"Yoldaş Hareketi Tıklaması", "mods":["ALT"]},
+                {"name":"Yoldaş Hareketi Tıklaması", "mods":["CONTROL"]}
+            ],
+            "N" : [
+                {"name":"6. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"6. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"6. Eşya OTO", "mods":[]}
+            ],
+            "NUMPAD_FIVE" : [
+                {"name":"Sihirdar Adlarını Göster", "mods":[]}
+            ],
+            "NUMPAD_NINE" : [
+                {"name":"FPS Gösterimini Aç/Kapat", "mods":[]}
+            ],
+            "NUMPAD_SEVEN" : [
+                {"name":"Ölüm Özeti Ekranını Aç/Kapat", "mods":[]}
+            ],
+            "NUMPAD_TWO" : [
+                {"name":"Kullanıcı Panelini Göster/Gizle", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"1. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"1. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"1. Eşya OTO", "mods":[]},
+                {"name":"Şaka", "mods":["CONTROL"]}
+            ],
+            "Q" : [
+                {"name":"1. Yetenek KENDİNE", "mods":["ALT"]},
+                {"name":"1. Yetenek NORMAL", "mods":["SHIFT"]},
+                {"name":"1. Yetenek OTO", "mods":[]},
+                {"name":"1. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
+            ],
+            "R" : [
+                {"name":"4. Yetenek KENDİNE", "mods":["ALT"]},
+                {"name":"4. Yetenek NORMAL", "mods":["SHIFT"]},
+                {"name":"4. Yetenek OTO", "mods":[]},
+                {"name":"4. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
+            ],
+            "RIGHT_ARROW" : [
+                {"name":"Sağa Kaydır", "mods":[]}
+            ],
+            "S" : [
+                {"name":"Oyuncu Yerinde Kal", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"5. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"5. Eşya OTO", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Kamerayı Şampiyona Odakla", "mods":[]}
+            ],
+            "T" : [
+                {"name":"İfade Çarkını Hızlı Aç", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Dükkân Sekmelerini Değiştir", "mods":["CONTROL"]},
+                {"name":"Skor Tablosunu Göster (Basılı Tut)", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"3. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"3. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"3. Eşya OTO", "mods":[]},
+                {"name":"Dans", "mods":["CONTROL"]}
+            ],
+            "TR><" : [
+                {"name":"Gelişmiş Oyuncu İstatistiklerini Göster", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"2. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"2. Eşya NORMAL", "mods":["SHIFT"]},
+                {"name":"2. Eşya OTO", "mods":[]},
+                {"name":"Kışkırt", "mods":["CONTROL"]}
+            ],
+            "U" : [
+                {"name":"Yumruk Selamı", "mods":[]}
+            ],
+            "UP_ARROW" : [
+                {"name":"Yukarı Kaydır", "mods":[]}
+            ],
+            "V" : [
+                {"name":"Sadece Şampiyonları Hedef Al", "mods":[]}
+            ],
+            "W" : [
+                {"name":"2. Yetenek KENDİNE", "mods":["ALT"]},
+                {"name":"2. Yetenek NORMAL", "mods":["SHIFT"]},
+                {"name":"2. Yetenek OTO", "mods":[]},
+                {"name":"2. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
+            ],
+            "Z" : [
+                {"name":"Hızlı Rakip Görüşü Sinyali", "mods":[]}
+            ]
+        }
+    }
+}

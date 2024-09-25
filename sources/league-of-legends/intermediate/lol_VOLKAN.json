@@ -1,0 +1,201 @@
+{
+    "name": "League of Legends",
+    "version": "VOLKAN",
+    "default_context": "Çekici Kontrolleri + Genel",
+    "os": ["windows", "mac", "linux"],
+    "contexts": {
+        "Ana Kısayol Tuşları": {
+            "1. Yetenek OTO": ["Q"],
+            "2. Yetenek OTO": ["W"],
+            "3. Yetenek OTO": ["E"],
+            "4. Yetenek OTO": ["R"],
+
+            "1. Sihirdar Büyüsü OTO": ["D"],
+            "2. Sihirdar Büyüsü OTO": ["F"],
+
+            "1. Eşya OTO": ["1"],
+            "2. Eşya OTO": ["2"],
+            "3. Eşya OTO": ["3"],
+            "4. Eşya OTO": ["5 / m_m4"],
+            "5. Eşya OTO": ["6 / m_m5"],
+            "6. Eşya OTO": ["N"],
+
+            "Ziynet. OTO": ["4"],
+
+
+
+
+
+
+            "1. Yetenek NORMAL": ["Shift + Q"],
+            "2. Yetenek NORMAL": ["Shift + W"],
+            "3. Yetenek NORMAL": ["Shift + E"],
+            "4. Yetenek NORMAL": ["Shift + R"],
+
+            "1. Sihirdar Büyüsü NORMAL": ["Shift + D"],
+            "2. Sihirdar Büyüsü NORMAL": ["Shift + F"],
+
+
+            "1. Yetenek KENDİNE": ["Alt + Q"],
+            "2. Yetenek KENDİNE": ["Alt + W"],
+            "3. Yetenek KENDİNE": ["Alt + E"],
+            "4. Yetenek KENDİNE": ["Alt + R"],
+
+            "1. Sihirdar Büyüsü KENDİNE": ["Alt + D"],
+            "2. Sihirdar Büyüsü KENDİNE": ["Alt + F"],
+
+            "1. Yeteneğe Seviye Atlat": ["Ctrl + Q"],
+            "2. Yeteneğe Seviye Atlat": ["Ctrl + W"],
+            "3. Yeteneğe Seviye Atlat": ["Ctrl + E"],
+            "4. Yeteneğe Seviye Atlat": ["Ctrl + R"],
+            "Sadece Şampiyonları Hedef Al": ["V"],
+            "Üsse Dönüş": ["B"],
+            "Şampiyona Özel Etkileşim 1": ["Shift + F1"],
+            "Şampiyona Özel Etkileşim 2": ["Shift + F2"],
+            "Şampiyona Özel Etkileşim 3": ["Shift + F3"],
+            "Şampiyona Özel Etkileşim 4": ["Shift + F4"],
+            "Şampiyona Özel Etkileşim 5": ["Shift + F5"],
+            "Şampiyona Özel Etkileşim 6": ["Shift + F6"],
+
+
+
+
+
+            "Ziynet NORMAL": ["Shift + 4"],
+            "1. Eşya NORMAL": ["Shift + 1"],
+            "2. Eşya NORMAL": ["Shift + 2"],
+            "3. Eşya NORMAL": ["Shift + 3"],
+            "4. Eşya NORMAL": ["Shift + m_m4"],
+            "5. Eşya NORMAL": ["Shift + m_m5"],
+            "6. Eşya NORMAL": ["Shift + N"],
+
+
+            "Ziynet KENDİNE": ["Alt + 4"],
+            "1. Eşya KENDİNE": ["Alt + 1"],
+            "2. Eşya KENDİNE": ["Alt + 2"],
+            "3. Eşya KENDİNE": ["Alt + 3"],
+            "4. Eşya KENDİNE": ["Alt + 5 / Alt + m_m4"],
+            "5. Eşya KENDİNE": ["Alt + 6 / Alt + m_m5"],
+            "6. Eşya KENDİNE": ["Alt + N"],            
+
+
+
+
+
+
+            "Oyuncu Hareket Tıklaması": ["m_right"],
+            "Oyuncu Saldırı Hareketi Tıklaması": ["Shift + m_right"],
+            "Oyuncu Sadece Saldırı Tıklaması": [""],
+            "Oyuncu Saldırı Hareketi": ["A"],
+            "Oyuncu Konumunu Koru": [""],
+            "Oyuncu Yerinde Kal": ["S"],
+            "Yoldaş Hareketi Tıklaması": ["Alt + m_right / Ctrl + m_right"],
+
+
+
+
+
+
+            "Kamerayı Şampiyona Odakla": ["Space"],
+            "Kendini Seç": [""],
+            "1. Takım Arkadaşını Seç": ["F1"],
+            "2. Takım Arkadaşını Seç": ["F2"],
+            "3. Takım Arkadaşını Seç": ["F3"],
+            "4. Takım Arkadaşını Seç": ["F4"],
+            "Kamera Kilidini Aç/Kapat": ["L"],
+            "Yukarı Kaydır": ["Up"],
+            "Aşağı Kaydır": ["Down"],
+            "Sola Kaydır": ["Left"],
+            "Sağa Kaydır": ["Right"],
+            "Sürükleyerek Kaydırma": ["m_middle"],
+            "Sürükleyerek Kaydırma Kilidi": [""],
+
+
+
+
+
+
+            "Can Göstergelerini Göster": [""],
+            "Minyon Can Göstergelerini Aç/Kapat": [""],
+            "Sihirdar Adlarını Göster": ["Numpad 5"],
+            "Kullanıcı Panelini Göster/Gizle": ["Numpad 2"],
+            "FPS Gösterimini Aç/Kapat": ["Numpad 9"],
+            "Ölüm Özeti Ekranını Aç/Kapat": ["Numpad 7"],
+
+
+
+
+
+
+            "Uyarı Sinyali": [""],
+            "Çabuk Uyarı Sinyali": ["Alt + m_left"],
+            "Temkin Sinyali": [""],
+            "Hızlı Temkin Sinyali": ["Ctrl + m_left"],
+
+
+            "Yoldayım Sinyali": [""],
+            "Rakip Kayıp Sinyali": [""],
+            "Çekilme Sinyali": [""],
+            "Bana Yardım Et": [""],
+            "İttir Sinyali": [""],
+            "Saldır Sinyali": [""],
+            "Hızlı Rakip Görüşü Sinyali": ["Z"],
+            "Görüş Lazım Sinyali": [""],
+
+
+            "Şaka": ["Ctrl + 1"],
+            "Kışkırt": ["Ctrl + 2"],
+            "Dans": ["Ctrl + 3"],
+            "Gül": ["Ctrl + 4"],
+            "Aç/Kapat": ["Ctrl + 5"],
+            "Ustalık İfadesi": ["Ctrl + m_m4 / Ctrl + m_m5"],
+            "Yumruk Selamı": ["U"],
+            "Benim Hatam": ["I"],
+
+
+            "İfade Çarkını Aç": [""],
+            "İfade Çarkını Hızlı Aç": ["T"],
+
+
+            "Sohbet Geçmişi": ["\""],
+
+
+
+
+
+
+            "Skor Tablosunu Göster": [""],
+            "Skor Tablosunu Göster (Basılı Tut)": ["TAB"],
+            "Fare Ekran Kilidini Aç/Kapat": ["F9"],
+            "Sistem Menüsü": ["ESC"],
+            "Gelişmiş Oyuncu İstatistiklerini Göster": ["tr><"],
+            "Temel Oyuncu İstatistiklerini Aç/Kapat": ["Ctrl + C"],
+
+
+
+
+
+
+            "Dükkânı Aç": ["C"],
+            "Dükkân Arama Çubuğunu Ortala": ["Ctrl + L / Ctrl + ENTER"],
+            "Dükkân Sekmelerini Değiştir": ["Ctrl + TAB"]
+        },
+
+        "Yetenekler ve Sihirdar Büyüleri": {
+        },
+        "Eşyalar": {
+        },
+        "Oyuncu Hareketi": {
+        },
+        "Kamera Kontrolü": {
+        },
+        "Görüntü": {
+        },
+        "İletişim": {
+        },
+        "Menüler": {
+        },
+        "Eşya Dükkanı": {
+        }
+    }
+}
