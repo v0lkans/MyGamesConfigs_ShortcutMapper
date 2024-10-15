@@ -21,4 +21,13 @@ var sitedata_apps = [
             },
         }
     },
+    {
+        name: "The Long Drive",
+        data: {
+            "VOLKAN": {
+                "mac": "the-long-drive_volkan_mac.json",
+                "windows": "the-long-drive_volkan_windows.json",
+            },
+        }
+    },
 ];

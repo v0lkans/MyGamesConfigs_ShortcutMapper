@@ -1,0 +1,203 @@
+{
+    "name" : "The Long Drive",
+    "version" : "VOLKAN",
+    "os" : "mac",
+    "mods_used" : ["CONTROL"],
+    "default_context" : "Main",
+    "contexts" : {
+        "Main" : {
+            "A" : [
+                {"name":"Move Left/Steer Left", "mods":[]}
+            ],
+            "ALT" : [
+                {"name":"Wave/Rub", "mods":[]}
+            ],
+            "B" : [
+                {"name":"Start Cruise", "mods":[]}
+            ],
+            "BACKSPACE" : [
+                {"name":"Hide HUD", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Change Camera", "mods":[]}
+            ],
+            "COMMA" : [
+                {"name":"Remove Accesories", "mods":[]}
+            ],
+            "CONTROL" : [
+                {"name":"Crouch/Clutch", "mods":[]}
+            ],
+            "D" : [
+                {"name":"Move Right/Steer Right", "mods":[]}
+            ],
+            "DOWN_ARROW" : [
+                {"name":"Shift Down", "mods":["CONTROL"]}
+            ],
+            "E" : [
+                {"name":"Use, Interact", "mods":[]}
+            ],
+            "EIGHT" : [
+                {"name":"Shotgun", "mods":[]}
+            ],
+            "F" : [
+                {"name":"Pickup/Mount/Dismount/Push", "mods":[]}
+            ],
+            "F1" : [
+                {"name":"M-ultiTool", "mods":[]}
+            ],
+            "F3" : [
+                {"name":"Auto Save in X", "mods":[]}
+            ],
+            "F4" : [
+                {"name":"Place Drop Camera", "mods":[]}
+            ],
+            "F5" : [
+                {"name":"Make 3D Screenshot", "mods":[]}
+            ],
+            "F6" : [
+                {"name":"Make 360 Screenshot", "mods":[]}
+            ],
+            "F7" : [
+                {"name":"360 Camera", "mods":[]}
+            ],
+            "FIVE" : [
+                {"name":"Revolver", "mods":[]},
+                {"name":"Shift To 5", "mods":["CONTROL"]}
+            ],
+            "FOUR" : [
+                {"name":"Inventory Slot 4", "mods":[]},
+                {"name":"Shift To 4", "mods":["CONTROL"]}
+            ],
+            "G" : [
+                {"name":"Attach", "mods":[]}
+            ],
+            "G_BREVE" : [
+                {"name":"Tumpy Gear Indicator Hide/Show", "mods":[]}
+            ],
+            "H" : [
+                {"name":"Horn", "mods":[]}
+            ],
+            "I" : [
+                {"name":"Piss", "mods":[]}
+            ],
+            "J" : [
+                {"name":"Toggle Mouse Driving", "mods":[]}
+            ],
+            "K" : [
+                {"name":"Map View/Mods", "mods":[]}
+            ],
+            "LEFT_ARROW" : [
+                {"name":"Steer Left", "mods":[]}
+            ],
+            "MOUSE_4" : [
+                {"name":"Shift Down", "mods":["CONTROL"]}
+            ],
+            "MOUSE_5" : [
+                {"name":"Shift Up", "mods":["CONTROL"]}
+            ],
+            "MOUSE_LEFT" : [
+                {"name":"Fire, Primary Action", "mods":[]}
+            ],
+            "MOUSE_MIDDLE" : [
+                {"name":"Rotate", "mods":[]},
+                {"name":"Shift To Neutral", "mods":["CONTROL"]}
+            ],
+            "MOUSE_RIGHT" : [
+                {"name":"Secondary Action", "mods":[]}
+            ],
+            "MOUSE_SCROLL_DOWN" : [
+                {"name":"Scroll Down", "mods":[]}
+            ],
+            "MOUSE_SCROLL_UP" : [
+                {"name":"Scroll Up", "mods":[]}
+            ],
+            "N" : [
+                {"name":"Shift To Neutral", "mods":["CONTROL"]}
+            ],
+            "NINE" : [
+                {"name":"BB Gun", "mods":[]}
+            ],
+            "O" : [
+                {"name":"Burp/Fart", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"Inventory Slot 1", "mods":[]},
+                {"name":"Shift To 1", "mods":["CONTROL"]}
+            ],
+            "PERIOD" : [
+                {"name":"Save Data", "mods":[]}
+            ],
+            "Q" : [
+                {"name":"Lean", "mods":[]}
+            ],
+            "R" : [
+                {"name":"Reload", "mods":[]},
+                {"name":"Shift To Reverse", "mods":["CONTROL"]}
+            ],
+            "RIGHT_ARROW" : [
+                {"name":"Steer Right", "mods":[]}
+            ],
+            "S" : [
+                {"name":"Move Back/Brake", "mods":[]}
+            ],
+            "SCROLL_LOCK" : [
+                {"name":"RUNDEN Suspension Tuner", "mods":[]}
+            ],
+            "SEVEN" : [
+                {"name":"AK", "mods":[]}
+            ],
+            "SHIFT" : [
+                {"name":"Run/RUNDEN Snap to Axis", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"Melee", "mods":[]},
+                {"name":"Shift To 6", "mods":["CONTROL"]}
+            ],
+            "SPACE" : [
+                {"name":"Jump/Toggle Handbrake", "mods":[]}
+            ],
+            "T" : [
+                {"name":"Target/RUNDEN Mouse Steering", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Equip, Recenter", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"Inventory Slot 3", "mods":[]},
+                {"name":"Shift To 3", "mods":["CONTROL"]}
+            ],
+            "TR><" : [
+                {"name":"Lights", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"Inventory Slot 2", "mods":[]},
+                {"name":"Shift To 2", "mods":["CONTROL"]}
+            ],
+            "U" : [
+                {"name":"Sleep", "mods":[]}
+            ],
+            "UP_ARROW" : [
+                {"name":"Shift Up", "mods":["CONTROL"]}
+            ],
+            "U_UML" : [
+                {"name":"Tumpy Gear Indicator Change Mod", "mods":[]}
+            ],
+            "V" : [
+                {"name":"Resume Cruise", "mods":[]}
+            ],
+            "W" : [
+                {"name":"Move Forward/Throttle", "mods":[]}
+            ],
+            "X" : [
+                {"name":"Ignition", "mods":[]}
+            ],
+            "Z" : [
+                {"name":"Hide HUD", "mods":[]}
+            ],
+            "ZERO" : [
+                {"name":"Clutch", "mods":["CONTROL"]},
+                {"name":"Store AK Magazine", "mods":[]}
+            ]
+        }
+    }
+}

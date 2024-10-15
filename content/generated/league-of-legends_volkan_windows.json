@@ -200,6 +200,9 @@
                 {"name":"2. Yetenek OTO", "mods":[]},
                 {"name":"2. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
             ],
+            "X" : [
+                {"name":"İfade Çarkını Hızlı Aç", "mods":[]}
+            ],
             "Z" : [
                 {"name":"Hızlı Rakip Görüşü Sinyali", "mods":[]}
             ]

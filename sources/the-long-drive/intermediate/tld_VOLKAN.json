@@ -1,0 +1,119 @@
+{
+    "name": "The Long Drive",
+    "version": "VOLKAN",
+    "default_context": "Main",
+    "os": ["windows", "mac", "linux"],
+    "contexts": {
+        "Main": {
+            "Move Forward/Throttle": ["W"],
+            "Move Back/Brake": ["S"],
+            "Move Left/Steer Left": ["A"],
+            "Move Right/Steer Right": ["D"],
+            "Look Up": ["Mouse Y"],
+            "Look Down": ["-Mouse Y"],
+            "Look Left": ["Mouse X"],
+            "Look Right": ["-Mouse X"],
+            "Fire, Primary Action": ["m_left"],
+            "Secondary Action": ["m_right"],
+            "Rotate": ["m_middle"],
+            "Run/RUNDEN Snap to Axis": ["Shift"],
+            "Jump/Toggle Handbrake": ["Space"],
+            "Crouch/Clutch": ["Ctrl"],
+            "Use, Interact": ["E"],
+            "Pickup/Mount/Dismount/Push": ["F"],
+            "Reload": ["R"],
+            "Mount/Dismount": [""],
+            "Push": [""],
+            "Equip, Recenter": ["Tab"],
+            "Lean": ["Q"],
+            "Piss": ["I"],
+            "Burp/Fart": ["O"],
+            "Target/RUNDEN Mouse Steering": ["T"],
+            "Map View/Mods": ["K"],
+            "Attach": ["G"],
+            "Sleep": ["U"],
+            "Wave/Rub": ["Alt"],
+            "Hum": [""],
+            "Remove Accesories": [","],
+            "Inventory Slot 1": ["1"],
+            "Inventory Slot 2": ["2"],
+            "Inventory Slot 3": ["3"],
+            "Inventory Slot 4": ["4"],
+            "Scroll Up": ["m_scroll_up"],
+            "Scroll Down": ["m_scroll_down"],
+            "Change Camera": ["C"],
+            "Zoom": [""],
+            "Hide HUD": ["Backspace / Z"],
+            "Place Drop Camera": ["F4"],
+            "Make 3D Screenshot": ["F5"],
+            "Make 360 Screenshot": ["F6"],
+            "360 Camera": ["F7"],
+            "VR Recenter": [""],
+            "Multiplayer Chat": [""],
+            "Voice Chat": [""],
+            "Look around with Move Keys": [""],
+            "Toggle Mouse Driving": ["J"],
+
+
+            "Shift Up": ["Ctrl + Up / Ctrl + m_m5"],
+            "Shift Down": ["Ctrl + Down / Ctrl + m_m4"],
+            "Shift To Reverse": ["Ctrl + R"],
+            "Shift To Neutral": ["Ctrl + N / Ctrl + m_middle"],
+            "Shift To 1": ["Ctrl + 1"],
+            "Shift To 2": ["Ctrl + 2"],
+            "Shift To 3": ["Ctrl + 3"],
+            "Shift To 4": ["Ctrl + 4"],
+            "Shift To 5": ["Ctrl + 5"],
+            "Shift To 6": ["Ctrl + 6"],
+            "Ignition": ["X"],
+            "Horn": ["H"],
+            "Lights": ["tr><"],
+            
+            
+            "Steer Left": ["Left"],
+            "Steer Right": ["Right"],
+            "Clutch": ["Ctrl + 0"],
+
+
+            "Melee": ["6"],
+            "Revolver": ["5"],
+            "AK": ["7"],
+            "Store AK Magazine": ["0"],
+            "Shotgun": ["8"],
+            "BB Gun": ["9"],
+            "Save Data": ["."],
+
+
+            "Start Cruise": ["B"],
+            "Resume Cruise": ["V"],
+
+
+            "M-ultiTool": ["F1"],
+            "RUNDEN Suspension Tuner": ["SCROLL_LOCK"],
+            "Auto Save in X": ["F3"],
+            "RUNDEN Mouse Steering": [""],
+            "Tumpy Gear Indicator Hide/Show": ["Ğ"],
+            "Tumpy Gear Indicator Change Mod": ["Ü"],
+            "RUNDEN Snap to Axis": [""]
+
+        },
+            
+        "Car": {
+            "Throttle": [""],
+            "Brake": [""],
+            "Steer Left": [""],
+            "Steer Right": [""],
+            "Clutch": [""],
+            "Toggle Handbrake": [""]         
+            
+        },
+        "Mod - Gunslinger Gear": {
+        },
+        "Mod - PID Cruise Control": {
+        },
+        "Mod - Other": {
+            
+            
+        }
+    }
+}
