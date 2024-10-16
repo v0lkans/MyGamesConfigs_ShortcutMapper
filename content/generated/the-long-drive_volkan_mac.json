@@ -86,6 +86,9 @@
             "K" : [
                 {"name":"Map View/Mods", "mods":[]}
             ],
+            "L" : [
+                {"name":"SgtJoe Weather - Wipers", "mods":[]}
+            ],
             "LEFT_ARROW" : [
                 {"name":"Steer Left", "mods":[]}
             ],
