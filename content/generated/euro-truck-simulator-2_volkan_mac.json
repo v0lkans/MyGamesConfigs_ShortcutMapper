@@ -10,22 +10,17 @@
                 {"name":"İç Mekân Kamerası Sola Bakma", "mods":["ALT"]}
             ],
             "B" : [
-                {"name":"El Freni", "mods":["SHIFT"]}
+                {"name":"El Freni", "mods":["SHIFT"]},
+                {"name":"Şerit Takip Asistanı Modu", "mods":[]}
             ],
             "D" : [
                 {"name":"İç Mekân Kamerası Sağa Bakma", "mods":["ALT"]}
-            ],
-            "E" : [
-                {"name":"Şerit Takip Asistanı Modu", "mods":["SHIFT"]}
             ],
             "M" : [
                 {"name":"Garaj Yöneticisi", "mods":[]}
             ],
             "T" : [
                 {"name":"Uzun Farlar", "mods":[]}
-            ],
-            "THREE" : [
-                {"name":"Motor Freni Açma/Kapatma", "mods":["SHIFT"]}
             ],
             "X" : [
                 {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]},
@@ -123,9 +118,12 @@
                 {"name":"Yol Planlayıcısı Önceki Ekran", "mods":["CONTROL"]},
                 {"name":"İç Mekân Kamerası Sol Üste Bakma", "mods":["ALT"]}
             ],
+            "B" : [
+                {"name":"Şerit Takip Asistanı", "mods":[]}
+            ],
             "C" : [
                 {"name":"Hız Sabitleyici Ayarını Düşürme", "mods":[]},
-                {"name":"Motor Freni Gücünü Düşürme", "mods":["SHIFT"]},
+                {"name":"Hız Sabitleyici", "mods":["SHIFT"]},
                 {"name":"Sağa Bakma", "mods":["ALT"]},
                 {"name":"Yol Planlayıcısı Modları", "mods":["CONTROL"]}
             ],
@@ -148,8 +146,8 @@
             "E" : [
                 {"name":"Etkinleştirme", "mods":["CONTROL"]},
                 {"name":"Hız Sabitleyici Ayarını Artırma", "mods":[]},
-                {"name":"İç Mekân Kamerası Yukarı Ortaya Bakma", "mods":["ALT"]},
-                {"name":"Şerit Takip Asistanı", "mods":["SHIFT"]}
+                {"name":"Hız Sabitleyici", "mods":["SHIFT"]},
+                {"name":"İç Mekân Kamerası Yukarı Ortaya Bakma", "mods":["ALT"]}
             ],
             "EIGHT" : [
                 {"name":"TV Kamerası", "mods":[]}
@@ -322,7 +320,6 @@
                 {"name":"İç Mekân Kamerası Yakınlaştırma", "mods":[]}
             ],
             "THREE" : [
-                {"name":"Motor Freni Gücünü Arttırma", "mods":["SHIFT"]},
                 {"name":"Tepeden Bakış Kamerası", "mods":[]},
                 {"name":"Yol Planlayıcısı Hasar Ekranı", "mods":["CONTROL"]}
             ],
