@@ -201,7 +201,8 @@
                 {"name":"2. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
             ],
             "X" : [
-                {"name":"İfade Çarkını Hızlı Aç", "mods":[]}
+                {"name":"Benim Hatam", "mods":["SHIFT"]},
+                {"name":"Yumruk Selamı", "mods":[]}
             ],
             "Z" : [
                 {"name":"Hızlı Rakip Görüşü Sinyali", "mods":[]}

@@ -149,12 +149,12 @@
             "Gül": ["Ctrl + 4"],
             "Aç/Kapat": ["Ctrl + 5"],
             "Ustalık İfadesi": ["Ctrl + m_m4 / Ctrl + m_m5"],
-            "Yumruk Selamı": ["U"],
-            "Benim Hatam": ["I"],
+            "Yumruk Selamı": ["U / X"],
+            "Benim Hatam": ["I / Shift + X"],
 
 
             "İfade Çarkını Aç": [""],
-            "İfade Çarkını Hızlı Aç": ["T / X"],
+            "İfade Çarkını Hızlı Aç": ["T"],
 
 
             "Sohbet Geçmişi": ["\""],
