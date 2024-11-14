@@ -201,7 +201,7 @@
                 {"name":"2. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
             ],
             "X" : [
-                {"name":"Benim Hatam", "mods":["SHIFT"]},
+                {"name":"Benim Hatam", "mods":["CONTROL"]},
                 {"name":"Yumruk Selamı", "mods":[]}
             ],
             "Z" : [
