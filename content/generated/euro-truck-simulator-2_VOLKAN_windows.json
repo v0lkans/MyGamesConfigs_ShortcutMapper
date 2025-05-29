@@ -14,12 +14,17 @@
                 {"name":"Şerit Takip Asistanı Modu", "mods":[]}
             ],
             "D" : [
+                {"name":"Boşa Alma", "mods":["SHIFT"]},
                 {"name":"İç Mekân Kamerası Sağa Bakma", "mods":["ALT"]}
             ],
             "M" : [
                 {"name":"Garaj Yöneticisi", "mods":[]}
             ],
+            "R" : [
+                {"name":"Boşa Alma", "mods":["SHIFT"]}
+            ],
             "T" : [
+                {"name":"Dörtlüler", "mods":["SHIFT"]},
                 {"name":"Uzun Farlar", "mods":[]}
             ],
             "X" : [

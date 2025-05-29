@@ -11,7 +11,7 @@
             "Sağa Dönüş": ["Right"],
             "Vites Yükseltme": [""],
             "Vites Küçültme": [""],
-            "Boşa Alma": ["Shift + N"],
+            "Boşa Alma": ["Shift + N / Shift + D BASILI / Shift + R BASILI"],
             "Sür Vitesine Geçme": ["Shift + D"],
             "Geri Vitese Geçme": ["Shift + R"],
             "Vites Yükseltme Müdahalesi": ["Shift + Q"],
@@ -40,7 +40,7 @@
             "Süspansiyonu Sıfırlama": ["End"],
 			"Sol Sinyal": ["A"],
 			"Sağ Sinyal": ["D"],
-			"Dörtlüler": ["K"],
+			"Dörtlüler": ["K / Shift + T BASILI"],
 			"Aydınlatma Seçenekleri": ["T"],
 			"Uzun Farlar": ["T BASILI"],
 			"Çakar Lamba": ["Y"],
@@ -180,8 +180,10 @@
 
 
         "Basılı Tutma": {
+            "Boşa Alma": ["Shift + D / Shift + R"],
             "El Freni": ["Shift + B"],
             "Motor Freni Açma/Kapatma": [""],
+            "Dörtlüler": ["Shift + T"],
             "Uzun Farlar": ["T"],
             "Silecekleri Kapatma/Yavaşlatma": ["Shift + X"],
             "Şerit Takip Asistanı Modu": ["B"],

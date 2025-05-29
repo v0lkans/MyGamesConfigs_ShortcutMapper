@@ -29,7 +29,8 @@
             "Piss": ["I"],
             "Burp/Fart": ["O"],
             "Target/RUNDEN Mouse Steering": ["T"],
-            "Map View/Mods": ["K"],
+            "Map View": ["K"],
+            "Mods": ["M"],
             "Attach": ["G"],
             "Sleep": ["U"],
             "Wave/Rub": ["Alt"],
@@ -72,7 +73,7 @@
             
             "Steer Left": ["Left"],
             "Steer Right": ["Right"],
-            "Clutch": ["Ctrl + 0"],
+            "Clutch": [""],
 
 
             "Melee": ["6"],

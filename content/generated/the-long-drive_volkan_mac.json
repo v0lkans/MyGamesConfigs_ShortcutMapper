@@ -84,13 +84,16 @@
                 {"name":"Toggle Mouse Driving", "mods":[]}
             ],
             "K" : [
-                {"name":"Map View/Mods", "mods":[]}
+                {"name":"Map View", "mods":[]}
             ],
             "L" : [
                 {"name":"SgtJoe Weather - Wipers", "mods":[]}
             ],
             "LEFT_ARROW" : [
                 {"name":"Steer Left", "mods":[]}
+            ],
+            "M" : [
+                {"name":"Mods", "mods":[]}
             ],
             "MOUSE_4" : [
                 {"name":"Shift Down", "mods":["CONTROL"]}
@@ -198,7 +201,6 @@
                 {"name":"Hide HUD", "mods":[]}
             ],
             "ZERO" : [
-                {"name":"Clutch", "mods":["CONTROL"]},
                 {"name":"Store AK Magazine", "mods":[]}
             ]
         }

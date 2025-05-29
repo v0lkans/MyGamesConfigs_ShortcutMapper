@@ -48,6 +48,9 @@
                 {"name":"1. Takım Arkadaşını Seç", "mods":[]},
                 {"name":"Şampiyona Özel Etkileşim 1", "mods":["SHIFT"]}
             ],
+            "F12" : [
+                {"name":"Ekran Görüntüsü", "mods":[]}
+            ],
             "F2" : [
                 {"name":"2. Takım Arkadaşını Seç", "mods":[]},
                 {"name":"Şampiyona Özel Etkileşim 2", "mods":["SHIFT"]}
