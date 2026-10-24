@@ -1,0 +1,363 @@
+{
+    "name" : "Euro Truck Simulator 2",
+    "version" : "VOLKAN - v1.61.1.9s - 22.10.2026 04.05",
+    "os" : "mac",
+    "mods_used" : ["ALT", "CONTROL", "SHIFT"],
+    "default_context" : "1) Çekici Kontrolleri + Genel",
+    "contexts" : {
+        "1) Çekici Kontrolleri + Genel" : {
+            "A" : [
+                {"name":"Sol Sinyal", "mods":[]},
+                {"name":"Vites Küçültme Müdahalesi", "mods":["SHIFT"]},
+                {"name":"İç Mekân Kamerası Sol Üste Bakma", "mods":["ALT"]}
+            ],
+            "B" : [
+                {"name":"Şerit Takip Asistanı", "mods":[]}
+            ],
+            "C" : [
+                {"name":"HUD Widget'larını Gösterme/Gizleme", "mods":["CONTROL"]},
+                {"name":"Hız Sabitleyici", "mods":["SHIFT"]},
+                {"name":"Hız Sabitleyicisi Ayarını Düşürme", "mods":[]},
+                {"name":"Sağa Bakma", "mods":["ALT"]}
+            ],
+            "COMMA" : [
+                {"name":"Yol Bilgisayarı Trip Sıfırlama", "mods":[]}
+            ],
+            "D" : [
+                {"name":"Sağ Sinyal", "mods":[]},
+                {"name":"İleri Vitese Geçme", "mods":["SHIFT"]},
+                {"name":"İç Mekân Kamerası Sağ Üste Bakma", "mods":["ALT"]}
+            ],
+            "DELETE" : [
+                {"name":"Arka Süspansiyonu İndirme", "mods":["SHIFT"]},
+                {"name":"Sol Camı Açma", "mods":[]}
+            ],
+            "DOWN_ARROW" : [
+                {"name":"Fren/Geri Vites", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Etkinleştirme", "mods":["CONTROL"]},
+                {"name":"Hız Sabitleyici", "mods":["SHIFT"]},
+                {"name":"Hız Sabitleyicisi Ayarını Artırma", "mods":[]},
+                {"name":"İç Mekân Kamerası Yukarı Ortaya Bakma", "mods":["ALT"]}
+            ],
+            "EIGHT" : [
+                {"name":"TV Kamerası", "mods":[]}
+            ],
+            "END" : [
+                {"name":"Süspansiyonu Sıfırlama", "mods":["SHIFT"]}
+            ],
+            "ESCAPE" : [
+                {"name":"Menü", "mods":[]}
+            ],
+            "F" : [
+                {"name":"Retarder Gücünü Artırma", "mods":[]}
+            ],
+            "F1" : [
+                {"name":"Hızlı Bilgi", "mods":[]},
+                {"name":"Navigasyon İstikamet Modu", "mods":["CONTROL"]}
+            ],
+            "F10" : [
+                {"name":"Ekran Görüntüsü", "mods":[]}
+            ],
+            "F12" : [
+                {"name":"Hızlı Kaydetme", "mods":[]}
+            ],
+            "F2" : [
+                {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":[]}
+            ],
+            "F3" : [
+                {"name":"HUD Widget'larını Gösterme/Gizleme", "mods":[]}
+            ],
+            "F4" : [
+                {"name":"Araç Ayarı", "mods":[]}
+            ],
+            "F6" : [
+                {"name":"Widget Tercihleri", "mods":[]}
+            ],
+            "F7" : [
+                {"name":"Servisler ve Ayarlar", "mods":[]}
+            ],
+            "FIVE" : [
+                {"name":"Camdan Dışarı Bakma Kamerası", "mods":[]}
+            ],
+            "FOUR" : [
+                {"name":"Tavan Kamerası", "mods":[]}
+            ],
+            "G" : [
+                {"name":"Selektör", "mods":[]}
+            ],
+            "G_BREVE" : [
+                {"name":"Dorse Dingili Kaldırma/İndirme", "mods":[]}
+            ],
+            "H" : [
+                {"name":"Korna", "mods":[]}
+            ],
+            "I" : [
+                {"name":"Motoru Çalıştırma/Durdurma", "mods":[]}
+            ],
+            "INSERT" : [
+                {"name":"Arka Süspansiyonu Kaldırma", "mods":["SHIFT"]},
+                {"name":"Sol Camı Kapatma", "mods":[]}
+            ],
+            "J" : [
+                {"name":"Havalı Korna", "mods":[]}
+            ],
+            "K" : [
+                {"name":"Dörtlüler", "mods":[]}
+            ],
+            "L" : [
+                {"name":"Dorseyi Bağlama/Ayırma", "mods":[]}
+            ],
+            "LEFT_ARROW" : [
+                {"name":"Sola Dönüş", "mods":[]}
+            ],
+            "M" : [
+                {"name":"Dünya Haritası", "mods":[]}
+            ],
+            "MOUSE_4" : [
+                {"name":"Sola Bakma", "mods":[]}
+            ],
+            "MOUSE_5" : [
+                {"name":"Sağa Bakma", "mods":[]}
+            ],
+            "MOUSE_LEFT" : [
+                {"name":"İç Kamera İleri Bakma", "mods":[]}
+            ],
+            "MOUSE_MIDDLE" : [
+                {"name":"İç Kamera Yakınlaştırma", "mods":[]}
+            ],
+            "MOUSE_RIGHT" : [
+                {"name":"Kamerayı Döndürme (fare ile kontrolde)", "mods":[]}
+            ],
+            "MOUSE_SCROLL_DOWN" : [
+                {"name":"Hız Sabitleyicisi Ayarını Düşürme", "mods":["SHIFT"]},
+                {"name":"Retarder Gücünü Artırma", "mods":[]}
+            ],
+            "MOUSE_SCROLL_UP" : [
+                {"name":"Hız Sabitleyicisi Ayarını Artırma", "mods":["SHIFT"]},
+                {"name":"Retarder Gücünü Düşürme", "mods":[]}
+            ],
+            "N" : [
+                {"name":"Boşa Alma", "mods":["SHIFT"]},
+                {"name":"Dorse Freni", "mods":[]}
+            ],
+            "NINE" : [
+                {"name":"Bir Sonraki Kamera", "mods":[]}
+            ],
+            "NUMPAD_ENTER" : [
+                {"name":"Etkinleştirme", "mods":[]}
+            ],
+            "O" : [
+                {"name":"Kontağı Açma/Kapatma", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"İç Kamera", "mods":[]}
+            ],
+            "PAGE_DOWN" : [
+                {"name":"Sağ Camı Açma", "mods":[]},
+                {"name":"Ön Süspansiyonu İndirme", "mods":["SHIFT"]}
+            ],
+            "PAGE_UP" : [
+                {"name":"Sağ Camı Kapatma", "mods":[]},
+                {"name":"Ön Süspansiyonu Kaldırma", "mods":["SHIFT"]}
+            ],
+            "PERIOD" : [
+                {"name":"Adatif Hız Sabitleyicisi Modu", "mods":[]}
+            ],
+            "Q" : [
+                {"name":"Ekrandaki Yan Aynaları Açma/Kapatma", "mods":["CONTROL"]},
+                {"name":"Kamerayı Döndürme (fare ile kontrolde)", "mods":[]},
+                {"name":"Vites Yükseltme Müdahalesi", "mods":["SHIFT"]},
+                {"name":"İç Kamera İleri Bakma", "mods":["ALT"]}
+            ],
+            "R" : [
+                {"name":"Geri Vitese Geçme", "mods":["SHIFT"]},
+                {"name":"Retarder Gücünü Düşürme", "mods":[]}
+            ],
+            "RIGHT_ARROW" : [
+                {"name":"Sağa Dönüş", "mods":[]}
+            ],
+            "S" : [
+                {"name":"0.1 * Brake", "mods":["ALT"]},
+                {"name":"0.25 * Brake", "mods":["CONTROL"]},
+                {"name":"0.5 * Brake", "mods":["SHIFT"]},
+                {"name":"Anında 1 * Brake", "mods":["ALT", "SHIFT"]},
+                {"name":"Fren/Geri Vites", "mods":[]}
+            ],
+            "SEVEN" : [
+                {"name":"Tekerlek Kamerası", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"Tampon Kamerası", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Motor Freni", "mods":[]}
+            ],
+            "T" : [
+                {"name":"Aydınlatma Seçenekleri", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Otomatik/Sıralı Şanzıman Arası Geçiş", "mods":["SHIFT"]},
+                {"name":"İç Kamera Yakınlaştırma", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"Tepeden Bakış Kamerası", "mods":[]}
+            ],
+            "TR><" : [
+                {"name":"Direksiyon Takipli Kamera Dönüşü", "mods":[]},
+                {"name":"Sinyal Takipli Kamera Dönüşü", "mods":["ALT"]}
+            ],
+            "TWO" : [
+                {"name":"Takip Kamerası", "mods":[]}
+            ],
+            "U" : [
+                {"name":"Diferansiyel Kilidi", "mods":[]}
+            ],
+            "UP_ARROW" : [
+                {"name":"Gaz", "mods":[]}
+            ],
+            "U_UML" : [
+                {"name":"Dingil Kaldırma/İndirme", "mods":[]}
+            ],
+            "V" : [
+                {"name":"Hız Sabitleyici", "mods":["SHIFT"]},
+                {"name":"Hız Sabitleyicisini Devam Ettirme", "mods":[]}
+            ],
+            "W" : [
+                {"name":"0.2 * Throttle", "mods":["ALT"]},
+                {"name":"0.4 * Throttle", "mods":["CONTROL"]},
+                {"name":"0.6 * Throttle", "mods":["SHIFT"]},
+                {"name":"Anında 1 * Throttle", "mods":["ALT", "SHIFT"]},
+                {"name":"Gaz", "mods":[]}
+            ],
+            "X" : [
+                {"name":"Navigasyon Yakınlaştırma Modu", "mods":[]},
+                {"name":"Navigasyonu Uzaklaştırma", "mods":["CONTROL"]},
+                {"name":"Silecekler", "mods":["SHIFT"]}
+            ],
+            "Y" : [
+                {"name":"Çakar Lamba", "mods":[]}
+            ],
+            "Z" : [
+                {"name":"Navigasyonu Yakınlaştırma", "mods":["CONTROL"]},
+                {"name":"Sola Bakma", "mods":["ALT"]},
+                {"name":"Yol Bilgisayarı Ekran Değiştirme", "mods":[]}
+            ]
+        },
+        "2) Basılı Tutma" : {
+            "A" : [
+                {"name":"İç Kamera Sola Bakma", "mods":["ALT"]}
+            ],
+            "B" : [
+                {"name":"El Freni", "mods":["SHIFT"]},
+                {"name":"Şerit Takip Asistanı Modu", "mods":[]}
+            ],
+            "D" : [
+                {"name":"Boşa Alma", "mods":["SHIFT"]},
+                {"name":"İç Kamera Sağa Bakma", "mods":["ALT"]}
+            ],
+            "M" : [
+                {"name":"Garaj Yöneticisi", "mods":[]}
+            ],
+            "R" : [
+                {"name":"Boşa Alma", "mods":["SHIFT"]}
+            ],
+            "T" : [
+                {"name":"Dörtlüler", "mods":["SHIFT"]},
+                {"name":"Uzun Farlar", "mods":[]}
+            ],
+            "X" : [
+                {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]},
+                {"name":"Silecekleri Kapatma/Yavaşlatma", "mods":["SHIFT"]}
+            ]
+        },
+        "3) Oyun İçi Ekran Kontrolleri" : {
+            "FIVE" : [
+                {"name":"Asistan 5. Eylem", "mods":[]}
+            ],
+            "FOUR" : [
+                {"name":"Asistan 4. Eylem", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"Asistan 1. Eylem", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"Asistan 6. Eylem", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"Asistan 3. Eylem", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"Asistan 2. Eylem", "mods":[]}
+            ]
+        },
+        "4) Yürüyüş Modu" : {
+            "A" : [
+                {"name":"Sola Gitme", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Çömelme", "mods":[]}
+            ],
+            "D" : [
+                {"name":"Sağa Gitme", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Koşma", "mods":[]}
+            ],
+            "S" : [
+                {"name":"Geri Gitme", "mods":[]}
+            ],
+            "W" : [
+                {"name":"İleri Gitme", "mods":[]}
+            ]
+        },
+        "5) Fotoğraf Modu" : {
+            "A" : [
+                {"name":"Kamera - Sola Gitme", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Kamera - Aşağı Gitme", "mods":[]}
+            ],
+            "D" : [
+                {"name":"Kamera - Sağa Gitme", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Kamera - Yukarı Gitme", "mods":[]}
+            ],
+            "ENTER" : [
+                {"name":"Fotoğraf Çekme", "mods":[]}
+            ],
+            "H" : [
+                {"name":"Kontrolleri Açma/Kapatma", "mods":[]}
+            ],
+            "M" : [
+                {"name":"Galeriyi Açma", "mods":[]}
+            ],
+            "MINUS" : [
+                {"name":"Fotoğraf Modunu Açma (sürüş esnasında)", "mods":[]}
+            ],
+            "N" : [
+                {"name":"Oyuncu İsimlerini Açma/Kapatma", "mods":[]}
+            ],
+            "R" : [
+                {"name":"Varsayılanlara Dönme", "mods":[]}
+            ],
+            "S" : [
+                {"name":"Kamera - Geri Gitme", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Fotoğraf Ayarını Açma/Kapatma", "mods":[]}
+            ],
+            "W" : [
+                {"name":"Kamera - İleri Gitme", "mods":[]}
+            ],
+            "X" : [
+                {"name":"Kamera - Sağa Devirme", "mods":[]}
+            ],
+            "Z" : [
+                {"name":"Kamera - Sola Devirme", "mods":[]}
+            ]
+        }
+    }
+}

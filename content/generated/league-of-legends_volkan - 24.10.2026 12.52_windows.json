@@ -1,13 +1,14 @@
 {
     "name" : "League of Legends",
-    "version" : "VOLKAN",
+    "version" : "VOLKAN - 24.10.2026 12.52",
     "os" : "windows",
     "mods_used" : ["ALT", "CONTROL", "SHIFT"],
-    "default_context" : "Çekici Kontrolleri + Genel",
+    "default_context" : "Ana Kısayol Tuşları",
     "contexts" : {
         "Ana Kısayol Tuşları" : {
             "A" : [
-                {"name":"Oyuncu Saldırı Hareketi", "mods":[]}
+                {"name":"Oyuncu Saldırı Hareketi", "mods":[]},
+                {"name":"Yumruk Selamı", "mods":["CONTROL"]}
             ],
             "B" : [
                 {"name":"Üsse Dönüş", "mods":[]}
@@ -47,9 +48,6 @@
             "F1" : [
                 {"name":"1. Takım Arkadaşını Seç", "mods":[]},
                 {"name":"Şampiyona Özel Etkileşim 1", "mods":["SHIFT"]}
-            ],
-            "F12" : [
-                {"name":"Ekran Görüntüsü", "mods":[]}
             ],
             "F2" : [
                 {"name":"2. Takım Arkadaşını Seç", "mods":[]},
@@ -130,7 +128,7 @@
                 {"name":"FPS Gösterimini Aç/Kapat", "mods":[]}
             ],
             "NUMPAD_SEVEN" : [
-                {"name":"Ölüm Özeti Ekranını Aç/Kapat", "mods":[]}
+                {"name":"Can Göstergelerini Göster", "mods":[]}
             ],
             "NUMPAD_TWO" : [
                 {"name":"Kullanıcı Panelini Göster/Gizle", "mods":[]}
@@ -157,7 +155,12 @@
                 {"name":"Sağa Kaydır", "mods":[]}
             ],
             "S" : [
+                {"name":"Benim Hatam", "mods":["CONTROL"]},
                 {"name":"Oyuncu Yerinde Kal", "mods":[]}
+            ],
+            "SEVEN" : [
+                {"name":"6. Eşya KENDİNE", "mods":["ALT"]},
+                {"name":"6. Eşya OTO", "mods":[]}
             ],
             "SIX" : [
                 {"name":"5. Eşya KENDİNE", "mods":["ALT"]},
@@ -204,8 +207,8 @@
                 {"name":"2. Yeteneğe Seviye Atlat", "mods":["CONTROL"]}
             ],
             "X" : [
-                {"name":"Benim Hatam", "mods":["CONTROL"]},
-                {"name":"Yumruk Selamı", "mods":[]}
+                {"name":"Rol Hedefi Aktif NORMAL", "mods":["SHIFT"]},
+                {"name":"Rol Hedefi", "mods":[]}
             ],
             "Z" : [
                 {"name":"Hızlı Rakip Görüşü Sinyali", "mods":[]}

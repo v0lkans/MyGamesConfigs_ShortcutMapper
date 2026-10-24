@@ -1,7 +1,7 @@
 {
     "name": "League of Legends",
-    "version": "VOLKAN",
-    "default_context": "Çekici Kontrolleri + Genel",
+    "version": "VOLKAN - 24.10.2026 12.52",
+    "default_context": "Ana Kısayol Tuşları",
     "os": ["windows", "mac", "linux"],
     "contexts": {
         "Ana Kısayol Tuşları": {
@@ -12,13 +12,15 @@
 
             "1. Sihirdar Büyüsü OTO": ["D"],
             "2. Sihirdar Büyüsü OTO": ["F"],
+            
+            "Rol Hedefi": ["X"],
 
             "1. Eşya OTO": ["1"],
             "2. Eşya OTO": ["2"],
             "3. Eşya OTO": ["3"],
             "4. Eşya OTO": ["5 / m_m4"],
             "5. Eşya OTO": ["6 / m_m5"],
-            "6. Eşya OTO": ["N"],
+            "6. Eşya OTO": ["7 / N"],
 
             "Ziynet. OTO": ["4"],
 
@@ -34,7 +36,7 @@
 
             "1. Sihirdar Büyüsü NORMAL": ["Shift + D"],
             "2. Sihirdar Büyüsü NORMAL": ["Shift + F"],
-
+            "Rol Hedefi Aktif NORMAL": ["Shift + X"],
 
             "1. Yetenek KENDİNE": ["Alt + Q"],
             "2. Yetenek KENDİNE": ["Alt + W"],
@@ -43,6 +45,7 @@
 
             "1. Sihirdar Büyüsü KENDİNE": ["Alt + D"],
             "2. Sihirdar Büyüsü KENDİNE": ["Alt + F"],
+            "Rol Hedefi Aktif KENDİNE": ["Alt + X InSight Capture Kullandığı için atanamadı. Gerek de yok"],
 
             "1. Yeteneğe Seviye Atlat": ["Ctrl + Q"],
             "2. Yeteneğe Seviye Atlat": ["Ctrl + W"],
@@ -50,6 +53,7 @@
             "4. Yeteneğe Seviye Atlat": ["Ctrl + R"],
             "Sadece Şampiyonları Hedef Al": ["V"],
             "Üsse Dönüş": ["B"],
+            "Rol Hedefi Aktif": ["X"],
             "Şampiyona Özel Etkileşim 1": ["Shift + F1"],
             "Şampiyona Özel Etkileşim 2": ["Shift + F2"],
             "Şampiyona Özel Etkileşim 3": ["Shift + F3"],
@@ -76,7 +80,7 @@
             "3. Eşya KENDİNE": ["Alt + 3"],
             "4. Eşya KENDİNE": ["Alt + 5 / Alt + m_m4"],
             "5. Eşya KENDİNE": ["Alt + 6 / Alt + m_m5"],
-            "6. Eşya KENDİNE": ["Alt + N"],            
+            "6. Eşya KENDİNE": ["Alt + 7 / Alt + N"],            
 
 
 
@@ -102,6 +106,7 @@
             "2. Takım Arkadaşını Seç": ["F2"],
             "3. Takım Arkadaşını Seç": ["F3"],
             "4. Takım Arkadaşını Seç": ["F4"],
+            "Takım Arkadaşı Değiştir": [""],
             "Kamera Kilidini Aç/Kapat": ["L"],
             "Yukarı Kaydır": ["Up"],
             "Aşağı Kaydır": ["Down"],
@@ -109,18 +114,17 @@
             "Sağa Kaydır": ["Right"],
             "Sürükleyerek Kaydırma": ["m_middle"],
             "Sürükleyerek Kaydırma Kilidi": [""],
+            "Önden Keşif Modunu Aç/Kapat": [""],
 
 
 
 
 
 
-            "Can Göstergelerini Göster": [""],
-            "Minyon Can Göstergelerini Aç/Kapat": [""],
+            "Can Göstergelerini Göster": ["Numpad 7"],
             "Sihirdar Adlarını Göster": ["Numpad 5"],
             "Kullanıcı Panelini Göster/Gizle": ["Numpad 2"],
             "FPS Gösterimini Aç/Kapat": ["Numpad 9"],
-            "Ölüm Özeti Ekranını Aç/Kapat": ["Numpad 7"],
 
 
 
@@ -149,8 +153,8 @@
             "Gül": ["Ctrl + 4"],
             "Aç/Kapat": ["Ctrl + 5"],
             "Ustalık İfadesi": ["Ctrl + m_m4 / Ctrl + m_m5"],
-            "Yumruk Selamı": ["U / X"],
-            "Benim Hatam": ["I / Ctrl + X"],
+            "Yumruk Selamı": ["U / Ctrl + A"],
+            "Benim Hatam": ["I / Ctrl + S"],
 
 
             "İfade Çarkını Aç": [""],
@@ -167,7 +171,6 @@
             "Skor Tablosunu Göster": [""],
             "Skor Tablosunu Göster (Basılı Tut)": ["TAB"],
             "Fare Ekran Kilidini Aç/Kapat": ["F9"],
-            "Ekran Görüntüsü": ["F12"],
             "Sistem Menüsü": ["ESC"],
             "Gelişmiş Oyuncu İstatistiklerini Göster": ["tr><"],
             "Temel Oyuncu İstatistiklerini Aç/Kapat": ["Ctrl + C"],

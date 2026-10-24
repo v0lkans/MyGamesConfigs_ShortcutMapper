@@ -6,18 +6,18 @@ var sitedata_apps = [
     {
         name: "Euro Truck Simulator 2",
         data: {
-            "VOLKAN": {
-                "mac": "euro-truck-simulator-2_volkan_mac.json",
-                "windows": "euro-truck-simulator-2_VOLKAN_windows.json",
+            "VOLKAN - v1.61.1.9s - 22.10.2026 04.05": {
+                "mac": "euro-truck-simulator-2_volkan - v1.61.1.9s - 22.10.2026 04.05_mac.json",
+                "windows": "euro-truck-simulator-2_volkan - v1.61.1.9s - 22.10.2026 04.05_windows.json",
             },
         }
     },
     {
         name: "League of Legends",
         data: {
-            "VOLKAN": {
-                "mac": "league-of-legends_volkan_mac.json",
-                "windows": "league-of-legends_volkan_windows.json",
+            "VOLKAN - 24.10.2026 12.52": {
+                "mac": "league-of-legends_volkan - 24.10.2026 12.52_mac.json",
+                "windows": "league-of-legends_volkan - 24.10.2026 12.52_windows.json",
             },
         }
     },
