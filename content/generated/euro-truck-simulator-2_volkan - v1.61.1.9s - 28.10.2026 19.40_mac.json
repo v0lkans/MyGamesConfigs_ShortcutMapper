@@ -1,7 +1,7 @@
 {
     "name" : "Euro Truck Simulator 2",
-    "version" : "VOLKAN - v1.61.1.9s - 22.10.2026 04.05",
-    "os" : "windows",
+    "version" : "VOLKAN - v1.61.1.9s - 28.10.2026 19.40",
+    "os" : "mac",
     "mods_used" : ["ALT", "CONTROL", "SHIFT"],
     "default_context" : "1) Çekici Kontrolleri + Genel",
     "contexts" : {
@@ -252,6 +252,9 @@
             "B" : [
                 {"name":"El Freni", "mods":["SHIFT"]},
                 {"name":"Şerit Takip Asistanı Modu", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Widget Tercihleri", "mods":["CONTROL"]}
             ],
             "D" : [
                 {"name":"Boşa Alma", "mods":["SHIFT"]},

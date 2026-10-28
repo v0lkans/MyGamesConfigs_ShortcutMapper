@@ -1,6 +1,6 @@
 {
     "name": "Euro Truck Simulator 2",
-    "version": "VOLKAN - v1.61.1.9s - 22.10.2026 04.05",
+    "version": "VOLKAN - v1.61.1.9s - 28.10.2026 19.40",
     "default_context": "1) Çekici Kontrolleri + Genel",
     "os": ["windows", "mac", "linux"],
     "contexts": {
@@ -92,7 +92,7 @@
             "Navigasyon İstikamet Modu": ["Ctrl + F1"],   
             "Navigasyonu Yakınlaştırma": ["Ctrl + Z"],
             "Navigasyonu Uzaklaştırma": ["Ctrl + X"],
-            "Widget Tercihleri": ["F6"],
+            "Widget Tercihleri": ["F6 / Ctrl + C BASILI"],
 
 
             "Kamerayı Sıfırlama": [""],
@@ -192,6 +192,7 @@
             "Boşa Alma": ["Shift + D / Shift + R"],
             "Manuel Dorse Dingili Ayarlamayı Açma/Kapatma": ["L BASILI"],
             "Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme": ["X"],
+            "Widget Tercihleri": ["Ctrl + C"],
             "İç Kamera Sağa Bakma": ["Alt + D"],
             "İç Kamera Sola Bakma": ["Alt + A"],
             "Garaj Yöneticisi": ["M"]
