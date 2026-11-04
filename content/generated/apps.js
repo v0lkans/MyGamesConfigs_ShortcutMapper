@@ -6,9 +6,9 @@ var sitedata_apps = [
     {
         name: "Euro Truck Simulator 2",
         data: {
-            "VOLKAN - v1.61.1.9s - 28.10.2026 19.40": {
-                "mac": "euro-truck-simulator-2_volkan - v1.61.1.9s - 28.10.2026 19.40_mac.json",
-                "windows": "euro-truck-simulator-2_volkan - v1.61.1.9s - 28.10.2026 19.40_windows.json",
+            "VOLKAN - v1.61.1.9s - 04.11.2026 10.40": {
+                "mac": "euro-truck-simulator-2_volkan - v1.61.1.9s - 04.11.2026 10.40_mac.json",
+                "windows": "euro-truck-simulator-2_volkan - v1.61.1.9s - 04.11.2026 10.40_windows.json",
             },
         }
     },

@@ -1,7 +1,7 @@
 {
     "name" : "Euro Truck Simulator 2",
-    "version" : "VOLKAN - v1.61.1.9s - 28.10.2026 19.40",
-    "os" : "windows",
+    "version" : "VOLKAN - v1.61.1.9s - 04.11.2026 10.40",
+    "os" : "mac",
     "mods_used" : ["ALT", "CONTROL", "SHIFT"],
     "default_context" : "1) Çekici Kontrolleri + Genel",
     "contexts" : {
@@ -152,6 +152,7 @@
                 {"name":"Kontağı Açma/Kapatma", "mods":[]}
             ],
             "ONE" : [
+                {"name":"Selektör", "mods":["SHIFT"]},
                 {"name":"İç Kamera", "mods":[]}
             ],
             "PAGE_DOWN" : [
@@ -195,13 +196,15 @@
                 {"name":"Motor Freni", "mods":[]}
             ],
             "T" : [
-                {"name":"Aydınlatma Seçenekleri", "mods":[]}
+                {"name":"Aydınlatma Seçenekleri", "mods":[]},
+                {"name":"Çakar Lamba", "mods":["SHIFT"]}
             ],
             "TAB" : [
                 {"name":"Otomatik/Sıralı Şanzıman Arası Geçiş", "mods":["SHIFT"]},
                 {"name":"İç Kamera Yakınlaştırma", "mods":[]}
             ],
             "THREE" : [
+                {"name":"Havalı Korna", "mods":["SHIFT"]},
                 {"name":"Tepeden Bakış Kamerası", "mods":[]}
             ],
             "TR><" : [
@@ -209,6 +212,7 @@
                 {"name":"Sinyal Takipli Kamera Dönüşü", "mods":["ALT"]}
             ],
             "TWO" : [
+                {"name":"Korna", "mods":["SHIFT"]},
                 {"name":"Takip Kamerası", "mods":[]}
             ],
             "U" : [
@@ -260,8 +264,20 @@
                 {"name":"Boşa Alma", "mods":["SHIFT"]},
                 {"name":"İç Kamera Sağa Bakma", "mods":["ALT"]}
             ],
+            "FOUR" : [
+                {"name":"TV Kamerası", "mods":[]}
+            ],
+            "L" : [
+                {"name":"Manuel Dorse Dingili Ayarlamayı Açma/Kapatma", "mods":[]}
+            ],
             "M" : [
                 {"name":"Garaj Yöneticisi", "mods":[]}
+            ],
+            "N" : [
+                {"name":"Acil Frenleme", "mods":["SHIFT"]}
+            ],
+            "ONE" : [
+                {"name":"Camdan Dışarı Bakma Kamerası", "mods":[]}
             ],
             "R" : [
                 {"name":"Boşa Alma", "mods":["SHIFT"]}
@@ -269,6 +285,18 @@
             "T" : [
                 {"name":"Dörtlüler", "mods":["SHIFT"]},
                 {"name":"Uzun Farlar", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Adaptif Otomatik Şanzıman Modu", "mods":["SHIFT"]}
+            ],
+            "THREE" : [
+                {"name":"Tekerlek Kamerası", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"Tampon Kamerası", "mods":[]}
+            ],
+            "V" : [
+                {"name":"Adatif Hız Sabitleyicisi Modu", "mods":[]}
             ],
             "X" : [
                 {"name":"Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme", "mods":[]},
