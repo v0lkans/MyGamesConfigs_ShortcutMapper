@@ -1,6 +1,6 @@
 {
     "name": "Euro Truck Simulator 2",
-    "version": "VOLKAN - v1.61.1.9s - 04.11.2026 10.40",
+    "version": "VOLKAN - v1.62.3.2s - 14.11.2026 16.50",
     "default_context": "1) Çekici Kontrolleri + Genel",
     "os": ["windows", "mac", "linux"],
     "contexts": {
@@ -12,17 +12,18 @@
             "Kontağı Açma/Kapatma": ["O"],
             "Motoru Çalıştırma/Durdurma": ["I"],
             "El Freni": ["Shift + B BASILI"],
-			"Silecekler": ["Shift + X"],
-            "Silecekleri Kapatma/Yavaşlatma": ["Shift + X BASILI"],
+			"Silecekler": ["Shift + Z"],
+            "Silecekleri Kapatma/Yavaşlatma": ["Shift + Z BASILI"],
 			"Sol Sinyal": ["A"],
 			"Sağ Sinyal": ["D"],
 			"Aydınlatma Seçenekleri": ["T"],
 			"Uzun Farlar": ["T BASILI"],
-			"Dörtlüler": ["K / Shift + T BASILI"],
+			"Dörtlüler": ["K / Y BASILI"],
 			"Korna": ["H / Shift + 2"],
 			"Selektör": ["G / Shift + 1"],
 			"Havalı Korna": ["J / Shift + 3"],
-			"Çakar Lamba": ["Y / Shift + T"],
+			"Çakar Lamba": ["Y"],
+			"Kabin Işığı": ["Shift + T"],
 			"Diferansiyel Kilidi": ["U"],
 			"Dingil Kaldırma/İndirme": ["Ü"],
 
@@ -77,9 +78,14 @@
             "Sağ Camı Kapatma": ["Page Up"],
             "Sol Camı Açma": ["del"],
             "Sol Camı Kapatma": ["ins"],
+            "Sol Güneşliği Kaldırın": [""],
+            "Sol Güneşliği İndirin": [""],
+            "Sağ Güneşliği Kaldırın": [""],
+            "Sağ Güneşliği İndirin": [""],
+            "Giriş Kapılarını Açıp Kapatın": ["P"],
             "Yol Bilgisayarı Ekran Değiştirme": ["Z"],
             "Eğlence ve Bilgilendirme Sistemi Ekranı Değiştirme": ["X BASILI"],
-            "Park Kamerası Modu": [""],
+            "Park Kamerası Modu": ["Shift + X"],
             "Navigasyon Yakınlaştırma Modu": ["X"],
             "Yol Bilgisayarı Trip Sıfırlama": [","],
 
@@ -159,7 +165,7 @@
             "Geri Gitme": ["S"],
             "Sola Gitme": ["A"],
             "Sağa Gitme": ["D"],
-            "Çömelme": ["C"],
+            "Çömelme": ["TR><"],
             "Koşma": ["E"]
 		},
 
@@ -185,9 +191,9 @@
 
         "2) Basılı Tutma": {
             "El Freni": ["Shift + B"],
-            "Silecekleri Kapatma/Yavaşlatma": ["Shift + X"],
+            "Silecekleri Kapatma/Yavaşlatma": ["Shift + Z"],
             "Uzun Farlar": ["T"],
-            "Dörtlüler": ["Shift + T"],
+            "Dörtlüler": ["Y"],
             "Şerit Takip Asistanı Modu": ["B"],
             "Acil Frenleme": ["Shift + N"],
 			"Adatif Hız Sabitleyicisi Modu": ["V"],
